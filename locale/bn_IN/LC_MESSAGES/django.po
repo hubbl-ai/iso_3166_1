@@ -1,25 +1,27 @@
-# translation of bn_IN.po to Bengali INDIA
-# Translation of ISO 3166 (country names) to Bengali India
-#
+# Translation of ISO 3166-1 to LANGUAGE
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# 
 # This file is distributed under the same license as the iso-codes package.
-#
+# 
 # Copyright ©
-#
-# Runa Bhattacharjee <runabh@gmail.com>, 2009, 2010.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Scott Deerwester <scott@hubbl.ai>, 2023
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-11-15 20:32+0100\n"
-"PO-Revision-Date: 2010-04-07 19:53+0530\n"
-"Last-Translator: Runa Bhattacharjee <runabh@gmail.com>\n"
-"Language-Team: Bengali (India) <discuss@lists.ankur.org.in>\n"
-"Language: bn_IN\n"
+"PO-Revision-Date: 2023-07-20 18:38+0000\n"
+"Last-Translator: Scott Deerwester <scott@hubbl.ai>, 2023\n"
+"Language-Team: Bengali (India) (https://app.transifex.com/hubbl-ai/teams/128312/bn_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Language: bn_IN\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "ISO_3166-1.AD"
@@ -157,6 +159,9 @@ msgstr "বোলিভিয়া"
 msgid "ISO_3166-1.BO#official"
 msgstr "প্লুরিনেশন্যাল রাষ্ট্র বোলিভিয়া"
 
+msgid "ISO_3166-1.BQ"
+msgstr ""
+
 msgid "ISO_3166-1.BR"
 msgstr "ব্রাজিল"
 
@@ -268,6 +273,9 @@ msgstr "কেপ ভার্ডি"
 msgid "ISO_3166-1.CV#official"
 msgstr "কেপ ভার্ডি প্রজাতন্ত্র"
 
+msgid "ISO_3166-1.CW"
+msgstr ""
+
 msgid "ISO_3166-1.CX"
 msgstr "ক্রিস্টমাস দ্বীপপুঞ্জ"
 
@@ -276,6 +284,9 @@ msgstr "সাইপ্রাস"
 
 msgid "ISO_3166-1.CY#official"
 msgstr "সাইপ্রাস প্রজাতন্ত্র"
+
+msgid "ISO_3166-1.CZ"
+msgstr ""
 
 msgid "ISO_3166-1.CZ#official"
 msgstr "চেক প্রজাতন্ত্র"
@@ -912,6 +923,9 @@ msgstr "পিটকেয়ার্ন"
 
 msgid "ISO_3166-1.PR"
 msgstr "পুয়ের্তো রিকো"
+
+msgid "ISO_3166-1.PS"
+msgstr ""
 
 msgid "ISO_3166-1.PS#official"
 msgstr "আমেরিকা মার্কিন যুক্তরাষ্ট্র"

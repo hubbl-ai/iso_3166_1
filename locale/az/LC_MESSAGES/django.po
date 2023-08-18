@@ -1,30 +1,34 @@
-# Translation of ISO-3166 (country names) to Azerbaijani
-#
+# Translation of ISO 3166-1 to LANGUAGE
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# 
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Free Software Foundation, Inc., 2004
-#   Alastair McKinstry <mckinstry@computer.org>, 2001.
-#   (Translations from drakfw)
-#   Mətin Əmirov <metin@karegen.com>, 2004.
-#   Alastair McKinstry - further translations from ICU-3.0
-#
+# 
+# Copyright ©
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Scott Deerwester <scott@hubbl.ai>, 2023
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-11-15 20:32+0100\n"
-"PO-Revision-Date: 2004-02-09 15:15+0200\n"
-"Last-Translator: Metin Amiroff <metin@karegen.com>\n"
-"Language-Team: Azerbaijani <translation-team-az@lists.sourceforge.net>\n"
-"Language: az\n"
+"PO-Revision-Date: 2023-07-20 18:38+0000\n"
+"Last-Translator: Scott Deerwester <scott@hubbl.ai>, 2023\n"
+"Language-Team: Azerbaijani (https://app.transifex.com/hubbl-ai/teams/128312/az/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: az\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "ISO_3166-1.AD"
 msgstr "Andorra"
+
+msgid "ISO_3166-1.AD#official"
+msgstr ""
 
 msgid "ISO_3166-1.AE"
 msgstr "Birləşmiş Ərəb Əmirlikləri"
@@ -44,8 +48,14 @@ msgstr "Anquilla"
 msgid "ISO_3166-1.AL"
 msgstr "Albaniya"
 
+msgid "ISO_3166-1.AL#official"
+msgstr ""
+
 msgid "ISO_3166-1.AM"
 msgstr "Ermənistan"
+
+msgid "ISO_3166-1.AM#official"
+msgstr ""
 
 msgid "ISO_3166-1.AO"
 msgstr "Anqola"
@@ -67,6 +77,9 @@ msgstr "Amerikan Samoa"
 
 msgid "ISO_3166-1.AT"
 msgstr "Avstriya"
+
+msgid "ISO_3166-1.AT#official"
+msgstr ""
 
 msgid "ISO_3166-1.AU"
 msgstr "Avstraliya"
@@ -95,14 +108,23 @@ msgstr "Barbados"
 msgid "ISO_3166-1.BD"
 msgstr "Banqladeş"
 
+msgid "ISO_3166-1.BD#official"
+msgstr ""
+
 msgid "ISO_3166-1.BE"
 msgstr "Belçika"
+
+msgid "ISO_3166-1.BE#official"
+msgstr ""
 
 msgid "ISO_3166-1.BF"
 msgstr "Burkina Faso"
 
 msgid "ISO_3166-1.BG"
 msgstr "Bolqarıstan"
+
+msgid "ISO_3166-1.BG#official"
+msgstr ""
 
 msgid "ISO_3166-1.BH"
 msgstr "Bahreyn"
@@ -113,11 +135,17 @@ msgstr "Bahreyn"
 msgid "ISO_3166-1.BI"
 msgstr "Burundi"
 
+msgid "ISO_3166-1.BI#official"
+msgstr ""
+
 msgid "ISO_3166-1.BJ"
 msgstr "Benin"
 
 msgid "ISO_3166-1.BJ#official"
 msgstr "Koreya, Respublika"
+
+msgid "ISO_3166-1.BL"
+msgstr ""
 
 msgid "ISO_3166-1.BM"
 msgstr "Bermuda"
@@ -128,14 +156,29 @@ msgstr "Bruney Darüssəlam"
 msgid "ISO_3166-1.BO"
 msgstr "Boliviya"
 
+msgid "ISO_3166-1.BO#official"
+msgstr ""
+
+msgid "ISO_3166-1.BQ"
+msgstr ""
+
 msgid "ISO_3166-1.BR"
 msgstr "Braziliya"
+
+msgid "ISO_3166-1.BR#official"
+msgstr ""
 
 msgid "ISO_3166-1.BS"
 msgstr "Bahama"
 
+msgid "ISO_3166-1.BS#official"
+msgstr ""
+
 msgid "ISO_3166-1.BT"
 msgstr "Butan"
+
+msgid "ISO_3166-1.BT#official"
+msgstr ""
 
 msgid "ISO_3166-1.BV"
 msgstr "Buvet Adası"
@@ -143,8 +186,14 @@ msgstr "Buvet Adası"
 msgid "ISO_3166-1.BW"
 msgstr "Botsvana"
 
+msgid "ISO_3166-1.BW#official"
+msgstr ""
+
 msgid "ISO_3166-1.BY"
 msgstr "Belarusiya"
+
+msgid "ISO_3166-1.BY#official"
+msgstr ""
 
 msgid "ISO_3166-1.BZ"
 msgstr "Beliz"
@@ -163,6 +212,9 @@ msgstr "Mərkəzi Afrika Respublikası"
 
 msgid "ISO_3166-1.CG"
 msgstr "Konqo"
+
+msgid "ISO_3166-1.CG#official"
+msgstr ""
 
 msgid "ISO_3166-1.CH"
 msgstr "İsveçrə"
@@ -188,6 +240,9 @@ msgstr "Koreya, Respublika"
 msgid "ISO_3166-1.CM"
 msgstr "Kamerun"
 
+msgid "ISO_3166-1.CM#official"
+msgstr ""
+
 msgid "ISO_3166-1.CN"
 msgstr "Çin"
 
@@ -196,6 +251,9 @@ msgstr "Koreya, Respublika"
 
 msgid "ISO_3166-1.CO"
 msgstr "Kolumbiya"
+
+msgid "ISO_3166-1.CO#official"
+msgstr ""
 
 msgid "ISO_3166-1.CR"
 msgstr "Kosta Rika"
@@ -215,6 +273,9 @@ msgstr "Keyp Verde"
 msgid "ISO_3166-1.CV#official"
 msgstr "Keyp Verde"
 
+msgid "ISO_3166-1.CW"
+msgstr ""
+
 msgid "ISO_3166-1.CX"
 msgstr "Kristmas Adası"
 
@@ -223,6 +284,9 @@ msgstr "Kipr"
 
 msgid "ISO_3166-1.CY#official"
 msgstr "Koreya, Respublika"
+
+msgid "ISO_3166-1.CZ"
+msgstr ""
 
 msgid "ISO_3166-1.CZ#official"
 msgstr "Çex Respublikası"
@@ -236,11 +300,20 @@ msgstr "Koreya, Respublika"
 msgid "ISO_3166-1.DJ"
 msgstr "Cibuti"
 
+msgid "ISO_3166-1.DJ#official"
+msgstr ""
+
 msgid "ISO_3166-1.DK"
 msgstr "Danimarka"
 
+msgid "ISO_3166-1.DK#official"
+msgstr ""
+
 msgid "ISO_3166-1.DM"
 msgstr "Dominik"
+
+msgid "ISO_3166-1.DM#official"
+msgstr ""
 
 msgid "ISO_3166-1.DO"
 msgstr "Dominikan Respublikası"
@@ -254,8 +327,14 @@ msgstr "Konqo, Demokratik Respublikası"
 msgid "ISO_3166-1.EC"
 msgstr "Ekvador"
 
+msgid "ISO_3166-1.EC#official"
+msgstr ""
+
 msgid "ISO_3166-1.EE"
 msgstr "Estoniya"
+
+msgid "ISO_3166-1.EE#official"
+msgstr ""
 
 msgid "ISO_3166-1.EG"
 msgstr "Misir"
@@ -275,6 +354,9 @@ msgstr "Birləşmiş Ştatlar"
 msgid "ISO_3166-1.ES"
 msgstr "İspaniya"
 
+msgid "ISO_3166-1.ES#official"
+msgstr ""
+
 msgid "ISO_3166-1.ET"
 msgstr "Efiopiya"
 
@@ -284,6 +366,9 @@ msgstr "Konqo, Demokratik Respublikası"
 msgid "ISO_3166-1.FI"
 msgstr "Finlandiya"
 
+msgid "ISO_3166-1.FI#official"
+msgstr ""
+
 msgid "ISO_3166-1.FJ"
 msgstr "Fici"
 
@@ -292,6 +377,12 @@ msgstr "Koreya, Respublika"
 
 msgid "ISO_3166-1.FK"
 msgstr "Fokland Adaları (Malvin)"
+
+msgid "ISO_3166-1.FM"
+msgstr ""
+
+msgid "ISO_3166-1.FM#official"
+msgstr ""
 
 msgid "ISO_3166-1.FO"
 msgstr "Faro Adaları"
@@ -308,6 +399,12 @@ msgstr "Qabon"
 msgid "ISO_3166-1.GA#official"
 msgstr "Çex Respublikası"
 
+msgid "ISO_3166-1.GB"
+msgstr ""
+
+msgid "ISO_3166-1.GB#official"
+msgstr ""
+
 msgid "ISO_3166-1.GD"
 msgstr "Qrenada"
 
@@ -316,6 +413,9 @@ msgstr "Gürcüstan"
 
 msgid "ISO_3166-1.GF"
 msgstr "Fransız Gvineyası"
+
+msgid "ISO_3166-1.GG"
+msgstr ""
 
 msgid "ISO_3166-1.GH"
 msgstr "Qana"
@@ -383,14 +483,23 @@ msgstr "Koreya, Respublika"
 msgid "ISO_3166-1.HK"
 msgstr "Honq Konq"
 
+msgid "ISO_3166-1.HK#official"
+msgstr ""
+
 msgid "ISO_3166-1.HM"
 msgstr "Heard Adası və McDonald Adaları"
 
 msgid "ISO_3166-1.HN"
 msgstr "Honduras"
 
+msgid "ISO_3166-1.HN#official"
+msgstr ""
+
 msgid "ISO_3166-1.HR"
 msgstr "Xırvatıstan"
+
+msgid "ISO_3166-1.HR#official"
+msgstr ""
 
 msgid "ISO_3166-1.HT"
 msgstr "Haiti"
@@ -412,6 +521,12 @@ msgstr "İrlandiya"
 
 msgid "ISO_3166-1.IL"
 msgstr "İsrail"
+
+msgid "ISO_3166-1.IL#official"
+msgstr ""
+
+msgid "ISO_3166-1.IM"
+msgstr ""
 
 msgid "ISO_3166-1.IN"
 msgstr "Hindistan"
@@ -437,17 +552,26 @@ msgstr "Koreya, Respublika"
 msgid "ISO_3166-1.IS"
 msgstr "İslandiya"
 
+msgid "ISO_3166-1.IS#official"
+msgstr ""
+
 msgid "ISO_3166-1.IT"
 msgstr "İtaliya"
 
 msgid "ISO_3166-1.IT#official"
 msgstr "Mərkəzi Afrika Respublikası"
 
+msgid "ISO_3166-1.JE"
+msgstr ""
+
 msgid "ISO_3166-1.JM"
 msgstr "Yamayka"
 
 msgid "ISO_3166-1.JO"
 msgstr "İordaniya"
+
+msgid "ISO_3166-1.JO#official"
+msgstr ""
 
 msgid "ISO_3166-1.JP"
 msgstr "Yaponiya"
@@ -467,11 +591,20 @@ msgstr "Çex Respublikası"
 msgid "ISO_3166-1.KH"
 msgstr "Kambodja"
 
+msgid "ISO_3166-1.KH#official"
+msgstr ""
+
 msgid "ISO_3166-1.KI"
 msgstr "Kiribati"
 
+msgid "ISO_3166-1.KI#official"
+msgstr ""
+
 msgid "ISO_3166-1.KM"
 msgstr "Komor"
+
+msgid "ISO_3166-1.KM#official"
+msgstr ""
 
 msgid "ISO_3166-1.KN"
 msgstr "Müqəddəs Kit və Nevis"
@@ -487,6 +620,9 @@ msgstr "Koreya, Respublika"
 
 msgid "ISO_3166-1.KW"
 msgstr "Küveyt"
+
+msgid "ISO_3166-1.KW#official"
+msgstr ""
 
 msgid "ISO_3166-1.KY"
 msgstr "Kayman Adaları"
@@ -524,8 +660,14 @@ msgstr "Koreya, Demokratık Xalq Respublikası"
 msgid "ISO_3166-1.LR"
 msgstr "Liberiya"
 
+msgid "ISO_3166-1.LR#official"
+msgstr ""
+
 msgid "ISO_3166-1.LS"
 msgstr "Lesoto"
+
+msgid "ISO_3166-1.LS#official"
+msgstr ""
 
 msgid "ISO_3166-1.LT"
 msgstr "Litva"
@@ -535,6 +677,9 @@ msgstr "Litva"
 
 msgid "ISO_3166-1.LU"
 msgstr "Lüksemburq"
+
+msgid "ISO_3166-1.LU#official"
+msgstr ""
 
 msgid "ISO_3166-1.LV"
 msgstr "Latviya"
@@ -548,14 +693,26 @@ msgstr "Liberiya"
 msgid "ISO_3166-1.MA"
 msgstr "Mərakeş"
 
+msgid "ISO_3166-1.MA#official"
+msgstr ""
+
 msgid "ISO_3166-1.MC"
 msgstr "Monako"
+
+msgid "ISO_3166-1.MC#official"
+msgstr ""
 
 msgid "ISO_3166-1.MD"
 msgstr "Koreya, Respublika"
 
+msgid "ISO_3166-1.MD#official"
+msgstr ""
+
 msgid "ISO_3166-1.ME"
 msgstr "Montserrat"
+
+msgid "ISO_3166-1.MF"
+msgstr ""
 
 msgid "ISO_3166-1.MG"
 msgstr "Madaqaskar"
@@ -571,6 +728,9 @@ msgstr "Marşal Adaları"
 
 msgid "ISO_3166-1.MK"
 msgstr "Koreya, Respublika"
+
+msgid "ISO_3166-1.MK#official"
+msgstr ""
 
 msgid "ISO_3166-1.ML"
 msgstr "Mali"
@@ -590,6 +750,9 @@ msgstr "Monqolustan"
 msgid "ISO_3166-1.MO"
 msgstr "Makao"
 
+msgid "ISO_3166-1.MO#official"
+msgstr ""
+
 msgid "ISO_3166-1.MP"
 msgstr "Şimali Marian Adaları"
 
@@ -601,6 +764,9 @@ msgstr "Martiniq"
 
 msgid "ISO_3166-1.MR"
 msgstr "Mavritaniya"
+
+msgid "ISO_3166-1.MR#official"
+msgstr ""
 
 msgid "ISO_3166-1.MS"
 msgstr "Montserrat"
@@ -619,6 +785,9 @@ msgstr "Mauritius"
 
 msgid "ISO_3166-1.MV"
 msgstr "Maldives"
+
+msgid "ISO_3166-1.MV#official"
+msgstr ""
 
 msgid "ISO_3166-1.MW"
 msgstr "Malavi"
@@ -644,11 +813,17 @@ msgstr "Mozambiq"
 msgid "ISO_3166-1.NA"
 msgstr "Namibiya"
 
+msgid "ISO_3166-1.NA#official"
+msgstr ""
+
 msgid "ISO_3166-1.NC"
 msgstr "Yeni Kaledoniya"
 
 msgid "ISO_3166-1.NE"
 msgstr "Niger"
+
+msgid "ISO_3166-1.NE#official"
+msgstr ""
 
 msgid "ISO_3166-1.NF"
 msgstr "Norfolk Adaları"
@@ -668,8 +843,14 @@ msgstr "Nikaraqua"
 msgid "ISO_3166-1.NL"
 msgstr "Hollandiya"
 
+msgid "ISO_3166-1.NL#official"
+msgstr ""
+
 msgid "ISO_3166-1.NO"
 msgstr "Norveç"
+
+msgid "ISO_3166-1.NO#official"
+msgstr ""
 
 msgid "ISO_3166-1.NP"
 msgstr "Nepal"
@@ -691,6 +872,9 @@ msgstr "Yeni Zellandiya"
 
 msgid "ISO_3166-1.OM"
 msgstr "Oman"
+
+msgid "ISO_3166-1.OM#official"
+msgstr ""
 
 msgid "ISO_3166-1.PA"
 msgstr "Panama"
@@ -716,8 +900,14 @@ msgstr "Papua Yeni Qvineya"
 msgid "ISO_3166-1.PH"
 msgstr "Filippin"
 
+msgid "ISO_3166-1.PH#official"
+msgstr ""
+
 msgid "ISO_3166-1.PK"
 msgstr "Pakistan"
+
+msgid "ISO_3166-1.PK#official"
+msgstr ""
 
 msgid "ISO_3166-1.PL"
 msgstr "Polşa"
@@ -733,6 +923,9 @@ msgstr "Pitkairn"
 
 msgid "ISO_3166-1.PR"
 msgstr "Porto Riko"
+
+msgid "ISO_3166-1.PS"
+msgstr ""
 
 msgid "ISO_3166-1.PS#official"
 msgstr "Birləşmiş Ştatlar"
@@ -752,8 +945,14 @@ msgstr "Koreya, Respublika"
 msgid "ISO_3166-1.PY"
 msgstr "Paraqvay"
 
+msgid "ISO_3166-1.PY#official"
+msgstr ""
+
 msgid "ISO_3166-1.QA"
 msgstr "Katar"
+
+msgid "ISO_3166-1.QA#official"
+msgstr ""
 
 msgid "ISO_3166-1.RE"
 msgstr "Reyunion"
@@ -794,8 +993,14 @@ msgstr "Seyşel"
 msgid "ISO_3166-1.SD"
 msgstr "Sudan"
 
+msgid "ISO_3166-1.SD#official"
+msgstr ""
+
 msgid "ISO_3166-1.SE"
 msgstr "İsveç"
+
+msgid "ISO_3166-1.SE#official"
+msgstr ""
 
 msgid "ISO_3166-1.SG"
 msgstr "Sinqapur"
@@ -803,8 +1008,14 @@ msgstr "Sinqapur"
 msgid "ISO_3166-1.SG#official"
 msgstr "Sinqapur"
 
+msgid "ISO_3166-1.SH"
+msgstr ""
+
 msgid "ISO_3166-1.SI"
 msgstr "Sloveniya"
+
+msgid "ISO_3166-1.SI#official"
+msgstr ""
 
 msgid "ISO_3166-1.SJ"
 msgstr "Svalbard və Jan Mayen"
@@ -830,6 +1041,9 @@ msgstr "San Marino"
 msgid "ISO_3166-1.SN"
 msgstr "Seneqal"
 
+msgid "ISO_3166-1.SN#official"
+msgstr ""
+
 msgid "ISO_3166-1.SO"
 msgstr "Somali"
 
@@ -838,6 +1052,9 @@ msgstr "Koreya, Respublika"
 
 msgid "ISO_3166-1.SR"
 msgstr "Surinam"
+
+msgid "ISO_3166-1.SR#official"
+msgstr ""
 
 msgid "ISO_3166-1.SS"
 msgstr "Cənubi Afrika"
@@ -856,6 +1073,9 @@ msgstr "Elsalvador"
 
 msgid "ISO_3166-1.SV#official"
 msgstr "Elsalvador"
+
+msgid "ISO_3166-1.SX"
+msgstr ""
 
 msgid "ISO_3166-1.SY"
 msgstr "Mərkəzi Afrika Respublikası"
@@ -887,6 +1107,9 @@ msgstr "Çex Respublikası"
 msgid "ISO_3166-1.TH"
 msgstr "Tayland"
 
+msgid "ISO_3166-1.TH#official"
+msgstr ""
+
 msgid "ISO_3166-1.TJ"
 msgstr "Tacikistan"
 
@@ -908,8 +1131,14 @@ msgstr "Türkmənistan"
 msgid "ISO_3166-1.TN"
 msgstr "Tunis"
 
+msgid "ISO_3166-1.TN#official"
+msgstr ""
+
 msgid "ISO_3166-1.TO"
 msgstr "Tonqa"
+
+msgid "ISO_3166-1.TO#official"
+msgstr ""
 
 msgid "ISO_3166-1.TR"
 msgstr "Türkiyə"
@@ -932,6 +1161,9 @@ msgstr "Tayvan"
 msgid "ISO_3166-1.TZ"
 msgstr "Koreya, Respublika"
 
+msgid "ISO_3166-1.TZ#official"
+msgstr ""
+
 msgid "ISO_3166-1.UA"
 msgstr "Ukrayna"
 
@@ -952,6 +1184,9 @@ msgstr "Birləşmiş Ştatlar"
 
 msgid "ISO_3166-1.UY"
 msgstr "Uruqvay"
+
+msgid "ISO_3166-1.UY#official"
+msgstr ""
 
 msgid "ISO_3166-1.UZ"
 msgstr "Özbəkistan"
@@ -986,14 +1221,23 @@ msgstr "Virgin Adaları, Britaniya"
 msgid "ISO_3166-1.VN"
 msgstr "Vyetnam"
 
+msgid "ISO_3166-1.VN#official"
+msgstr ""
+
 msgid "ISO_3166-1.VU"
 msgstr "Vanuatu"
+
+msgid "ISO_3166-1.VU#official"
+msgstr ""
 
 msgid "ISO_3166-1.WF"
 msgstr "Vallis və Futuna"
 
 msgid "ISO_3166-1.WS"
 msgstr "Samoa"
+
+msgid "ISO_3166-1.WS#official"
+msgstr ""
 
 msgid "ISO_3166-1.YE"
 msgstr "Yəmən"
@@ -1018,3 +1262,6 @@ msgstr "Koreya, Respublika"
 
 msgid "ISO_3166-1.ZW"
 msgstr "Zimbabve"
+
+msgid "ISO_3166-1.ZW#official"
+msgstr ""

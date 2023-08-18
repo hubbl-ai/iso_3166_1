@@ -1,1266 +1,1263 @@
-# Translation of ISO-3166 (country names) to Bulgarian
-#
+# Translation of ISO 3166-1 to LANGUAGE
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# 
 # This file is distributed under the same license as the iso-codes package.
-#
-#   Free Software Foundation, Inc., 2004.
-#   Georgi Georgiev <assenov_g@operamail.com>, 2001, 2004.
-#   Alastair McKinstry <mckinstry@computer.org>, 2001.
-#   Ognyan Kulev <ogi@fmi.uni-sofia.bg>, 2004.
-#   Damyan Ivanov <dmn@debian.org>, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2014, 2016.
-# Copyright (C)
-#   (translations from drakfw)
-#   - further translations from ICU-3.9
+# 
+# Copyright ©
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-11-15 20:32+0100\n"
-"PO-Revision-Date: 2016-01-03 17:54+0200\n"
-"Last-Translator: Damyan Ivanov <dmn@debian.org>\n"
-"Language-Team: Bulgarian <dict@ludost.net>\n"
-"Language: bg\n"
+"PO-Revision-Date: 2023-07-20 18:38+0000\n"
+"Language-Team: Bulgarian (https://app.transifex.com/hubbl-ai/teams/128312/bg/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.7\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "ISO_3166-1.AD"
-msgstr "Андора"
+msgstr ""
 
 msgid "ISO_3166-1.AD#official"
-msgstr "Княжество Андора"
+msgstr ""
 
 msgid "ISO_3166-1.AE"
-msgstr "Обединени арабски емирства"
+msgstr ""
 
 msgid "ISO_3166-1.AF"
-msgstr "Афганистан"
+msgstr ""
 
 msgid "ISO_3166-1.AF#official"
-msgstr "Ислямска република Афганистан"
+msgstr ""
 
 msgid "ISO_3166-1.AG"
-msgstr "Антигуа и Барбуда"
+msgstr ""
 
 msgid "ISO_3166-1.AI"
-msgstr "Ангила"
+msgstr ""
 
 msgid "ISO_3166-1.AL"
-msgstr "Албания"
+msgstr ""
 
 msgid "ISO_3166-1.AL#official"
-msgstr "Република Албания"
+msgstr ""
 
 msgid "ISO_3166-1.AM"
-msgstr "Армения"
+msgstr ""
 
 msgid "ISO_3166-1.AM#official"
-msgstr "Република Армения"
+msgstr ""
 
 msgid "ISO_3166-1.AO"
-msgstr "Ангола"
+msgstr ""
 
 msgid "ISO_3166-1.AO#official"
-msgstr "Република Ангола"
+msgstr ""
 
 msgid "ISO_3166-1.AQ"
-msgstr "Антарктика"
+msgstr ""
 
 msgid "ISO_3166-1.AR"
-msgstr "Аржентина"
+msgstr ""
 
 msgid "ISO_3166-1.AR#official"
-msgstr "Аржентинска република"
+msgstr ""
 
 msgid "ISO_3166-1.AS"
-msgstr "Американска Самоа"
+msgstr ""
 
 msgid "ISO_3166-1.AT"
-msgstr "Австрия"
+msgstr ""
 
 msgid "ISO_3166-1.AT#official"
-msgstr "Република Австрия"
+msgstr ""
 
 msgid "ISO_3166-1.AU"
-msgstr "Австралия"
+msgstr ""
 
 msgid "ISO_3166-1.AW"
-msgstr "Аруба"
+msgstr ""
 
 msgid "ISO_3166-1.AX"
-msgstr "Аландски острови"
+msgstr ""
 
 msgid "ISO_3166-1.AZ"
-msgstr "Азербайджан"
+msgstr ""
 
 msgid "ISO_3166-1.AZ#official"
-msgstr "Република Азербайджан"
+msgstr ""
 
 msgid "ISO_3166-1.BA"
-msgstr "Босна и Херцеговина"
+msgstr ""
 
 msgid "ISO_3166-1.BA#official"
-msgstr "Република Босна и Херцеговина"
+msgstr ""
 
 msgid "ISO_3166-1.BB"
-msgstr "Барбадос"
+msgstr ""
 
 msgid "ISO_3166-1.BD"
-msgstr "Бангладеш"
+msgstr ""
 
 msgid "ISO_3166-1.BD#official"
-msgstr "Народна република Бангладеш"
+msgstr ""
 
 msgid "ISO_3166-1.BE"
-msgstr "Белгия"
+msgstr ""
 
 msgid "ISO_3166-1.BE#official"
-msgstr "Кралство Белгия"
+msgstr ""
 
 msgid "ISO_3166-1.BF"
-msgstr "Буркина Фасо"
+msgstr ""
 
 msgid "ISO_3166-1.BG"
-msgstr "България"
+msgstr ""
 
 msgid "ISO_3166-1.BG#official"
-msgstr "Република България"
+msgstr ""
 
 msgid "ISO_3166-1.BH"
-msgstr "Бахрейн"
+msgstr ""
 
 msgid "ISO_3166-1.BH#official"
-msgstr "Кралство Бахрейн"
+msgstr ""
 
 msgid "ISO_3166-1.BI"
-msgstr "Бурунди"
+msgstr ""
 
 msgid "ISO_3166-1.BI#official"
-msgstr "Република Бурунди"
+msgstr ""
 
 msgid "ISO_3166-1.BJ"
-msgstr "Бенин"
+msgstr ""
 
 msgid "ISO_3166-1.BJ#official"
-msgstr "Република Бенин"
+msgstr ""
 
 msgid "ISO_3166-1.BL"
-msgstr "Свети Вартоломей"
+msgstr ""
 
 msgid "ISO_3166-1.BM"
-msgstr "Бермуда"
+msgstr ""
 
 msgid "ISO_3166-1.BN"
-msgstr "Бруней"
+msgstr ""
 
 msgid "ISO_3166-1.BO"
-msgstr "Боливия"
+msgstr ""
 
 msgid "ISO_3166-1.BO#official"
-msgstr "Многонационална държава Боливия"
+msgstr ""
 
 msgid "ISO_3166-1.BQ"
-msgstr "О-ви Бонер, Св. Евстатий и Саба"
+msgstr ""
 
 msgid "ISO_3166-1.BR"
-msgstr "Бразилия"
+msgstr ""
 
 msgid "ISO_3166-1.BR#official"
-msgstr "Съюзна република Бразилия"
+msgstr ""
 
 msgid "ISO_3166-1.BS"
-msgstr "Бахами"
+msgstr ""
 
 msgid "ISO_3166-1.BS#official"
-msgstr "Бахамски острови"
+msgstr ""
 
 msgid "ISO_3166-1.BT"
-msgstr "Бутан"
+msgstr ""
 
 msgid "ISO_3166-1.BT#official"
-msgstr "Кралство Бутан"
+msgstr ""
 
 msgid "ISO_3166-1.BV"
-msgstr "Остров Буве"
+msgstr ""
 
 msgid "ISO_3166-1.BW"
-msgstr "Ботсуана"
+msgstr ""
 
 msgid "ISO_3166-1.BW#official"
-msgstr "Република Ботсуана"
+msgstr ""
 
 msgid "ISO_3166-1.BY"
-msgstr "Беларус"
+msgstr ""
 
 msgid "ISO_3166-1.BY#official"
-msgstr "Република Беларус"
+msgstr ""
 
 msgid "ISO_3166-1.BZ"
-msgstr "Белиз"
+msgstr ""
 
 msgid "ISO_3166-1.CA"
-msgstr "Канада"
+msgstr ""
 
 msgid "ISO_3166-1.CC"
-msgstr "Кокосови острови"
+msgstr ""
 
 msgid "ISO_3166-1.CD"
-msgstr "Конго, Демократична република"
+msgstr ""
 
 msgid "ISO_3166-1.CF"
-msgstr "Централноафриканска Република"
+msgstr ""
 
 msgid "ISO_3166-1.CG"
-msgstr "Конго"
+msgstr ""
 
 msgid "ISO_3166-1.CG#official"
-msgstr "Република Конго"
+msgstr ""
 
 msgid "ISO_3166-1.CH"
-msgstr "Швейцария"
+msgstr ""
 
 msgid "ISO_3166-1.CH#official"
-msgstr "Швейцарска конфедерация"
+msgstr ""
 
 msgid "ISO_3166-1.CI"
-msgstr "Кот д'Ивоар"
+msgstr ""
 
 msgid "ISO_3166-1.CI#official"
-msgstr "Република Кот д'Ивоар"
+msgstr ""
 
 msgid "ISO_3166-1.CK"
-msgstr "Острови Кук"
+msgstr ""
 
 msgid "ISO_3166-1.CL"
-msgstr "Чили"
+msgstr ""
 
 msgid "ISO_3166-1.CL#official"
-msgstr "Република Чили"
+msgstr ""
 
 msgid "ISO_3166-1.CM"
-msgstr "Камерун"
+msgstr ""
 
 msgid "ISO_3166-1.CM#official"
-msgstr "Република Камерун"
+msgstr ""
 
 msgid "ISO_3166-1.CN"
-msgstr "Китай"
+msgstr ""
 
 msgid "ISO_3166-1.CN#official"
-msgstr "Народна република Китай"
+msgstr ""
 
 msgid "ISO_3166-1.CO"
-msgstr "Колумбия"
+msgstr ""
 
 msgid "ISO_3166-1.CO#official"
-msgstr "Република Колумбия"
+msgstr ""
 
 msgid "ISO_3166-1.CR"
-msgstr "Коста Рика"
+msgstr ""
 
 msgid "ISO_3166-1.CR#official"
-msgstr "Република Коста Рика"
+msgstr ""
 
 msgid "ISO_3166-1.CU"
-msgstr "Куба"
+msgstr ""
 
 msgid "ISO_3166-1.CU#official"
-msgstr "Република Куба"
+msgstr ""
 
 msgid "ISO_3166-1.CV"
-msgstr "Кейп Верде"
+msgstr ""
 
 msgid "ISO_3166-1.CV#official"
-msgstr "Република Кейп Верде"
+msgstr ""
 
 msgid "ISO_3166-1.CW"
-msgstr "Кюрасао"
+msgstr ""
 
 msgid "ISO_3166-1.CX"
-msgstr "Коледни острови"
+msgstr ""
 
 msgid "ISO_3166-1.CY"
-msgstr "Кипър"
+msgstr ""
 
 msgid "ISO_3166-1.CY#official"
-msgstr "Република Кипър"
+msgstr ""
+
+msgid "ISO_3166-1.CZ"
+msgstr ""
 
 msgid "ISO_3166-1.CZ#official"
-msgstr "Чешка република"
+msgstr ""
 
 msgid "ISO_3166-1.DE"
-msgstr "Германия"
+msgstr ""
 
 msgid "ISO_3166-1.DE#official"
-msgstr "Федерална република Германия"
+msgstr ""
 
 msgid "ISO_3166-1.DJ"
-msgstr "Джибути"
+msgstr ""
 
 msgid "ISO_3166-1.DJ#official"
-msgstr "Република Джибути"
+msgstr ""
 
 msgid "ISO_3166-1.DK"
-msgstr "Дания"
+msgstr ""
 
 msgid "ISO_3166-1.DK#official"
-msgstr "Кралство Дания"
+msgstr ""
 
 msgid "ISO_3166-1.DM"
-msgstr "Доминика"
+msgstr ""
 
 msgid "ISO_3166-1.DM#official"
-msgstr "Обединение Доминика"
+msgstr ""
 
 msgid "ISO_3166-1.DO"
-msgstr "Доминиканска република"
+msgstr ""
 
 msgid "ISO_3166-1.DZ"
-msgstr "Алжир"
+msgstr ""
 
 msgid "ISO_3166-1.DZ#official"
-msgstr "Народна демократична република Алжир"
+msgstr ""
 
 msgid "ISO_3166-1.EC"
-msgstr "Еквадор"
+msgstr ""
 
 msgid "ISO_3166-1.EC#official"
-msgstr "Република Еквадор"
+msgstr ""
 
 msgid "ISO_3166-1.EE"
-msgstr "Естония"
+msgstr ""
 
 msgid "ISO_3166-1.EE#official"
-msgstr "Република Естония"
+msgstr ""
 
 msgid "ISO_3166-1.EG"
-msgstr "Египет"
+msgstr ""
 
 msgid "ISO_3166-1.EG#official"
-msgstr "Арабска република Египет"
+msgstr ""
 
 msgid "ISO_3166-1.EH"
-msgstr "Западна Сахара"
+msgstr ""
 
 msgid "ISO_3166-1.ER"
-msgstr "Еритрея"
+msgstr ""
 
 msgid "ISO_3166-1.ER#official"
-msgstr "Еритрея"
+msgstr ""
 
 msgid "ISO_3166-1.ES"
-msgstr "Испания"
+msgstr ""
 
 msgid "ISO_3166-1.ES#official"
-msgstr "Кралство Испания"
+msgstr ""
 
 msgid "ISO_3166-1.ET"
-msgstr "Етиопия"
+msgstr ""
 
 msgid "ISO_3166-1.ET#official"
-msgstr "Федерална демократична република Етиопия"
+msgstr ""
 
 msgid "ISO_3166-1.FI"
-msgstr "Финландия"
+msgstr ""
 
 msgid "ISO_3166-1.FI#official"
-msgstr "Република Финландия"
+msgstr ""
 
 msgid "ISO_3166-1.FJ"
-msgstr "Фиджи"
+msgstr ""
 
 msgid "ISO_3166-1.FJ#official"
-msgstr "Република Фиджи"
+msgstr ""
 
 msgid "ISO_3166-1.FK"
-msgstr "Фолклендски Острови (Малвини)"
+msgstr ""
 
 msgid "ISO_3166-1.FM"
-msgstr "Микронезия, Обединени щати"
+msgstr ""
 
 msgid "ISO_3166-1.FM#official"
-msgstr "Обединени щати Микронезия"
+msgstr ""
 
 msgid "ISO_3166-1.FO"
-msgstr "Острови Фаро"
+msgstr ""
 
 msgid "ISO_3166-1.FR"
-msgstr "Франция"
+msgstr ""
 
 msgid "ISO_3166-1.FR#official"
-msgstr "Френска република"
+msgstr ""
 
 msgid "ISO_3166-1.GA"
-msgstr "Габон"
+msgstr ""
 
 msgid "ISO_3166-1.GA#official"
-msgstr "Габонска Република"
+msgstr ""
 
 msgid "ISO_3166-1.GB"
-msgstr "Обединено кралство"
+msgstr ""
 
 msgid "ISO_3166-1.GB#official"
-msgstr "Обединено кралство на Великобритания и северна Ирландия"
+msgstr ""
 
 msgid "ISO_3166-1.GD"
-msgstr "Гренада"
+msgstr ""
 
 msgid "ISO_3166-1.GE"
-msgstr "Грузия"
+msgstr ""
 
 msgid "ISO_3166-1.GF"
-msgstr "Френска Гвиана"
+msgstr ""
 
 msgid "ISO_3166-1.GG"
-msgstr "Гърнсей"
+msgstr ""
 
 msgid "ISO_3166-1.GH"
-msgstr "Гана"
+msgstr ""
 
 msgid "ISO_3166-1.GH#official"
-msgstr "Република Гана"
+msgstr ""
 
 msgid "ISO_3166-1.GI"
-msgstr "Гибралтар"
+msgstr ""
 
 msgid "ISO_3166-1.GL"
-msgstr "Гренландия"
+msgstr ""
 
 msgid "ISO_3166-1.GM"
-msgstr "Гамбия"
+msgstr ""
 
 msgid "ISO_3166-1.GM#official"
-msgstr "Република Гамбия"
+msgstr ""
 
 msgid "ISO_3166-1.GN"
-msgstr "Гвинея"
+msgstr ""
 
 msgid "ISO_3166-1.GN#official"
-msgstr "Република Гвинея"
+msgstr ""
 
 msgid "ISO_3166-1.GP"
-msgstr "Гваделупа"
+msgstr ""
 
 msgid "ISO_3166-1.GQ"
-msgstr "Екваториална Гвинея"
+msgstr ""
 
 msgid "ISO_3166-1.GQ#official"
-msgstr "Република Екваториална Гвинея"
+msgstr ""
 
 msgid "ISO_3166-1.GR"
-msgstr "Гърция"
+msgstr ""
 
 msgid "ISO_3166-1.GR#official"
-msgstr "Елинска република"
+msgstr ""
 
 msgid "ISO_3166-1.GS"
-msgstr "Южна Джорджия и Южни Сандвичеви острови"
+msgstr ""
 
 msgid "ISO_3166-1.GT"
-msgstr "Гватемала"
+msgstr ""
 
 msgid "ISO_3166-1.GT#official"
-msgstr "Република Гватемала"
+msgstr ""
 
 msgid "ISO_3166-1.GU"
-msgstr "Гуам"
+msgstr ""
 
 msgid "ISO_3166-1.GW"
-msgstr "Гвинея-Бисау"
+msgstr ""
 
 msgid "ISO_3166-1.GW#official"
-msgstr "Република Гвинея-Бисау"
+msgstr ""
 
 msgid "ISO_3166-1.GY"
-msgstr "Гияна"
+msgstr ""
 
 msgid "ISO_3166-1.GY#official"
-msgstr "Република Гияна"
+msgstr ""
 
 msgid "ISO_3166-1.HK"
-msgstr "Хонг Конг"
+msgstr ""
 
 msgid "ISO_3166-1.HK#official"
-msgstr "Специален административен регион на Китай Хонг Конг"
+msgstr ""
 
 msgid "ISO_3166-1.HM"
-msgstr "Острови Хърд и МакДоналд"
+msgstr ""
 
 msgid "ISO_3166-1.HN"
-msgstr "Хондурас"
+msgstr ""
 
 msgid "ISO_3166-1.HN#official"
-msgstr "Република Хондурас"
+msgstr ""
 
 msgid "ISO_3166-1.HR"
-msgstr "Хърватия"
+msgstr ""
 
 msgid "ISO_3166-1.HR#official"
-msgstr "Република Хърватия"
+msgstr ""
 
 msgid "ISO_3166-1.HT"
-msgstr "Хаити"
+msgstr ""
 
 msgid "ISO_3166-1.HT#official"
-msgstr "Република Хаити"
+msgstr ""
 
 msgid "ISO_3166-1.HU"
-msgstr "Унгария"
+msgstr ""
 
 msgid "ISO_3166-1.ID"
-msgstr "Индонезия"
+msgstr ""
 
 msgid "ISO_3166-1.ID#official"
-msgstr "Република Индонезия"
+msgstr ""
 
 msgid "ISO_3166-1.IE"
-msgstr "Ирландия"
+msgstr ""
 
 msgid "ISO_3166-1.IL"
-msgstr "Израел"
+msgstr ""
 
 msgid "ISO_3166-1.IL#official"
-msgstr "Израелска държава"
+msgstr ""
 
 msgid "ISO_3166-1.IM"
-msgstr "Айл ъф мен"
+msgstr ""
 
 msgid "ISO_3166-1.IN"
-msgstr "Индия"
+msgstr ""
 
 msgid "ISO_3166-1.IN#official"
-msgstr "Република Индия"
+msgstr ""
 
 msgid "ISO_3166-1.IO"
-msgstr "Английски територии в индийския океан"
+msgstr ""
 
 msgid "ISO_3166-1.IQ"
-msgstr "Ирак"
+msgstr ""
 
 msgid "ISO_3166-1.IQ#official"
-msgstr "Република Ирак"
+msgstr ""
 
 msgid "ISO_3166-1.IR"
-msgstr "Иран, Ислямска република"
+msgstr ""
 
 msgid "ISO_3166-1.IR#official"
-msgstr "Ислямска република Иран"
+msgstr ""
 
 msgid "ISO_3166-1.IS"
-msgstr "Исландия"
+msgstr ""
 
 msgid "ISO_3166-1.IS#official"
-msgstr "Република Исландия"
+msgstr ""
 
 msgid "ISO_3166-1.IT"
-msgstr "Италия"
+msgstr ""
 
 msgid "ISO_3166-1.IT#official"
-msgstr "Италианска република"
+msgstr ""
 
 msgid "ISO_3166-1.JE"
-msgstr "Джърси"
+msgstr ""
 
 msgid "ISO_3166-1.JM"
-msgstr "Ямайка"
+msgstr ""
 
 msgid "ISO_3166-1.JO"
-msgstr "Йордания"
+msgstr ""
 
 msgid "ISO_3166-1.JO#official"
-msgstr "Хашемитско кралство на Йордания"
+msgstr ""
 
 msgid "ISO_3166-1.JP"
-msgstr "Япония"
+msgstr ""
 
 msgid "ISO_3166-1.KE"
-msgstr "Кения"
+msgstr ""
 
 msgid "ISO_3166-1.KE#official"
-msgstr "Република Кения"
+msgstr ""
 
 msgid "ISO_3166-1.KG"
-msgstr "Киргизстан"
+msgstr ""
 
 msgid "ISO_3166-1.KG#official"
-msgstr "Киргизска република"
+msgstr ""
 
 msgid "ISO_3166-1.KH"
-msgstr "Камбоджа"
+msgstr ""
 
 msgid "ISO_3166-1.KH#official"
-msgstr "Кралство Камбоджа"
+msgstr ""
 
 msgid "ISO_3166-1.KI"
-msgstr "Кирибати"
+msgstr ""
 
 msgid "ISO_3166-1.KI#official"
-msgstr "Република Кирибати"
+msgstr ""
 
 msgid "ISO_3166-1.KM"
-msgstr "Комори"
+msgstr ""
 
 msgid "ISO_3166-1.KM#official"
-msgstr "Съюз на Комори"
+msgstr ""
 
 msgid "ISO_3166-1.KN"
-msgstr "Свети Китс и Невис"
+msgstr ""
 
 msgid "ISO_3166-1.KP"
-msgstr "Корея, Демократична народна република"
+msgstr ""
 
 msgid "ISO_3166-1.KP#official"
-msgstr "Демократична народна република Корея"
+msgstr ""
 
 msgid "ISO_3166-1.KR"
-msgstr "Корея, Република"
+msgstr ""
 
 msgid "ISO_3166-1.KW"
-msgstr "Кувейт"
+msgstr ""
 
 msgid "ISO_3166-1.KW#official"
-msgstr "Кувейтска държава"
+msgstr ""
 
 msgid "ISO_3166-1.KY"
-msgstr "Кайманови острови"
+msgstr ""
 
 msgid "ISO_3166-1.KZ"
-msgstr "Казахстан"
+msgstr ""
 
 msgid "ISO_3166-1.KZ#official"
-msgstr "Република Казахстан"
+msgstr ""
 
 msgid "ISO_3166-1.LA"
-msgstr "Демократична република на народа на Лао"
+msgstr ""
 
 msgid "ISO_3166-1.LB"
-msgstr "Лебанон"
+msgstr ""
 
 msgid "ISO_3166-1.LB#official"
-msgstr "Лебанска република"
+msgstr ""
 
 msgid "ISO_3166-1.LC"
-msgstr "Санта Лучия"
+msgstr ""
 
 msgid "ISO_3166-1.LI"
-msgstr "Лихтенщайн"
+msgstr ""
 
 msgid "ISO_3166-1.LI#official"
-msgstr "Княжество Лихтенщайн"
+msgstr ""
 
 msgid "ISO_3166-1.LK"
-msgstr "Шри Ланка"
+msgstr ""
 
 msgid "ISO_3166-1.LK#official"
-msgstr "Демократична социалистическа република Шри Ланка"
+msgstr ""
 
 msgid "ISO_3166-1.LR"
-msgstr "Либерия"
+msgstr ""
 
 msgid "ISO_3166-1.LR#official"
-msgstr "Република Либерия"
+msgstr ""
 
 msgid "ISO_3166-1.LS"
-msgstr "Лесото"
+msgstr ""
 
 msgid "ISO_3166-1.LS#official"
-msgstr "Кралство Лесото"
+msgstr ""
 
 msgid "ISO_3166-1.LT"
-msgstr "Литва"
+msgstr ""
 
 msgid "ISO_3166-1.LT#official"
-msgstr "Република Литва"
+msgstr ""
 
 msgid "ISO_3166-1.LU"
-msgstr "Люксембург"
+msgstr ""
 
 msgid "ISO_3166-1.LU#official"
-msgstr "Велико херцогство Люксембург"
+msgstr ""
 
 msgid "ISO_3166-1.LV"
-msgstr "Латвия"
+msgstr ""
 
 msgid "ISO_3166-1.LV#official"
-msgstr "Република Латвия"
+msgstr ""
 
 msgid "ISO_3166-1.LY"
-msgstr "Либия"
+msgstr ""
 
 msgid "ISO_3166-1.MA"
-msgstr "Мароко"
+msgstr ""
 
 msgid "ISO_3166-1.MA#official"
-msgstr "Кралство Мароко"
+msgstr ""
 
 msgid "ISO_3166-1.MC"
-msgstr "Монако"
+msgstr ""
 
 msgid "ISO_3166-1.MC#official"
-msgstr "Княжество Монако"
+msgstr ""
 
 msgid "ISO_3166-1.MD"
-msgstr "Молдова"
+msgstr ""
 
 msgid "ISO_3166-1.MD#official"
-msgstr "Република Молдова"
+msgstr ""
 
 msgid "ISO_3166-1.ME"
-msgstr "Черна гора"
+msgstr ""
 
 msgid "ISO_3166-1.MF"
-msgstr "Свети Мартин (френска част)"
+msgstr ""
 
 msgid "ISO_3166-1.MG"
-msgstr "Мадагаскар"
+msgstr ""
 
 msgid "ISO_3166-1.MG#official"
-msgstr "Република Мадагаскар"
+msgstr ""
 
 msgid "ISO_3166-1.MH"
-msgstr "Маршалски острови"
+msgstr ""
 
 msgid "ISO_3166-1.MH#official"
-msgstr "Република на маршалските острови"
+msgstr ""
 
 msgid "ISO_3166-1.MK"
-msgstr "Македония, Република"
+msgstr ""
 
 msgid "ISO_3166-1.MK#official"
-msgstr "Бивша югославска република Македония"
+msgstr ""
 
 msgid "ISO_3166-1.ML"
-msgstr "Мали"
+msgstr ""
 
 msgid "ISO_3166-1.ML#official"
-msgstr "Република Мали"
+msgstr ""
 
 msgid "ISO_3166-1.MM"
-msgstr "Мянмар"
+msgstr ""
 
 msgid "ISO_3166-1.MM#official"
-msgstr "Република Мианмар"
+msgstr ""
 
 msgid "ISO_3166-1.MN"
-msgstr "Монголия"
+msgstr ""
 
 msgid "ISO_3166-1.MO"
-msgstr "Макао"
+msgstr ""
 
 msgid "ISO_3166-1.MO#official"
-msgstr "Макаоски специален административен регион на Китай"
+msgstr ""
 
 msgid "ISO_3166-1.MP"
-msgstr "Северни марианови Острови"
+msgstr ""
 
 msgid "ISO_3166-1.MP#official"
-msgstr "Обединение на северните марианови острови"
+msgstr ""
 
 msgid "ISO_3166-1.MQ"
-msgstr "Мартиника"
+msgstr ""
 
 msgid "ISO_3166-1.MR"
-msgstr "Мавритания"
+msgstr ""
 
 msgid "ISO_3166-1.MR#official"
-msgstr "Ислямска република Мавритания"
+msgstr ""
 
 msgid "ISO_3166-1.MS"
-msgstr "Монсерат"
+msgstr ""
 
 msgid "ISO_3166-1.MT"
-msgstr "Малта"
+msgstr ""
 
 msgid "ISO_3166-1.MT#official"
-msgstr "Република Малта"
+msgstr ""
 
 msgid "ISO_3166-1.MU"
-msgstr "Мавриций"
+msgstr ""
 
 msgid "ISO_3166-1.MU#official"
-msgstr "Република Мавриций"
+msgstr ""
 
 msgid "ISO_3166-1.MV"
-msgstr "Малдиви"
+msgstr ""
 
 msgid "ISO_3166-1.MV#official"
-msgstr "Република Малдиви"
+msgstr ""
 
 msgid "ISO_3166-1.MW"
-msgstr "Малави"
+msgstr ""
 
 msgid "ISO_3166-1.MW#official"
-msgstr "Република Малави"
+msgstr ""
 
 msgid "ISO_3166-1.MX"
-msgstr "Мексико"
+msgstr ""
 
 msgid "ISO_3166-1.MX#official"
-msgstr "Съединени мексикански щати"
+msgstr ""
 
 msgid "ISO_3166-1.MY"
-msgstr "Малайзия"
+msgstr ""
 
 msgid "ISO_3166-1.MZ"
-msgstr "Мозамбик"
+msgstr ""
 
 msgid "ISO_3166-1.MZ#official"
-msgstr "Република Мозамбик"
+msgstr ""
 
 msgid "ISO_3166-1.NA"
-msgstr "Намибия"
+msgstr ""
 
 msgid "ISO_3166-1.NA#official"
-msgstr "Република Намибия"
+msgstr ""
 
 msgid "ISO_3166-1.NC"
-msgstr "Нова Каледония"
+msgstr ""
 
 msgid "ISO_3166-1.NE"
-msgstr "Нигер"
+msgstr ""
 
 msgid "ISO_3166-1.NE#official"
-msgstr "Република Нигер"
+msgstr ""
 
 msgid "ISO_3166-1.NF"
-msgstr "Остров Норфолк"
+msgstr ""
 
 msgid "ISO_3166-1.NG"
-msgstr "Нигерия"
+msgstr ""
 
 msgid "ISO_3166-1.NG#official"
-msgstr "Федерална република Нигерия"
+msgstr ""
 
 msgid "ISO_3166-1.NI"
-msgstr "Никарагуа"
+msgstr ""
 
 msgid "ISO_3166-1.NI#official"
-msgstr "Република Никарагуа"
+msgstr ""
 
 msgid "ISO_3166-1.NL"
-msgstr "Холандия"
+msgstr ""
 
 msgid "ISO_3166-1.NL#official"
-msgstr "Кралство Холандия"
+msgstr ""
 
 msgid "ISO_3166-1.NO"
-msgstr "Норвегия"
+msgstr ""
 
 msgid "ISO_3166-1.NO#official"
-msgstr "Кралство Норвегия"
+msgstr ""
 
 msgid "ISO_3166-1.NP"
-msgstr "Непал"
+msgstr ""
 
 msgid "ISO_3166-1.NP#official"
-msgstr "Федерална демократична република Непал"
+msgstr ""
 
 msgid "ISO_3166-1.NR"
-msgstr "Науру"
+msgstr ""
 
 msgid "ISO_3166-1.NR#official"
-msgstr "Република Науру"
+msgstr ""
 
 msgid "ISO_3166-1.NU"
-msgstr "Нию"
+msgstr ""
 
 msgid "ISO_3166-1.NZ"
-msgstr "Нова Зеландия"
+msgstr ""
 
 msgid "ISO_3166-1.OM"
-msgstr "Оман"
+msgstr ""
 
 msgid "ISO_3166-1.OM#official"
-msgstr "Султанат Оман"
+msgstr ""
 
 msgid "ISO_3166-1.PA"
-msgstr "Панама"
+msgstr ""
 
 msgid "ISO_3166-1.PA#official"
-msgstr "Република Панама"
+msgstr ""
 
 msgid "ISO_3166-1.PE"
-msgstr "Перу"
+msgstr ""
 
 msgid "ISO_3166-1.PE#official"
-msgstr "Република Перу"
+msgstr ""
 
 msgid "ISO_3166-1.PF"
-msgstr "Френска Полинезия"
+msgstr ""
 
 msgid "ISO_3166-1.PG"
-msgstr "Папуа Нова Гвинея"
+msgstr ""
 
 msgid "ISO_3166-1.PG#official"
-msgstr "Независима държава Папуа Нова Гвинея"
+msgstr ""
 
 msgid "ISO_3166-1.PH"
-msgstr "Филипини"
+msgstr ""
 
 msgid "ISO_3166-1.PH#official"
-msgstr "Република Филипини"
+msgstr ""
 
 msgid "ISO_3166-1.PK"
-msgstr "Пакистан"
+msgstr ""
 
 msgid "ISO_3166-1.PK#official"
-msgstr "Ислямска република Пакистан"
+msgstr ""
 
 msgid "ISO_3166-1.PL"
-msgstr "Полша"
+msgstr ""
 
 msgid "ISO_3166-1.PL#official"
-msgstr "Република Полша"
+msgstr ""
 
 msgid "ISO_3166-1.PM"
-msgstr "Свети Пиер и Микелон"
+msgstr ""
 
 msgid "ISO_3166-1.PN"
-msgstr "Питкеърн"
+msgstr ""
 
 msgid "ISO_3166-1.PR"
-msgstr "Пуерто Рико"
+msgstr ""
 
 msgid "ISO_3166-1.PS"
-msgstr "Палестина, държава"
+msgstr ""
 
 msgid "ISO_3166-1.PS#official"
-msgstr "Държавата Палестина"
+msgstr ""
 
 msgid "ISO_3166-1.PT"
-msgstr "Португалия"
+msgstr ""
 
 msgid "ISO_3166-1.PT#official"
-msgstr "Република Португалия"
+msgstr ""
 
 msgid "ISO_3166-1.PW"
-msgstr "Палау"
+msgstr ""
 
 msgid "ISO_3166-1.PW#official"
-msgstr "Република Палау"
+msgstr ""
 
 msgid "ISO_3166-1.PY"
-msgstr "Парагвай"
+msgstr ""
 
 msgid "ISO_3166-1.PY#official"
-msgstr "Република Парагвай"
+msgstr ""
 
 msgid "ISO_3166-1.QA"
-msgstr "Катар"
+msgstr ""
 
 msgid "ISO_3166-1.QA#official"
-msgstr "Катарска държава"
+msgstr ""
 
 msgid "ISO_3166-1.RE"
-msgstr "Риюниън"
+msgstr ""
 
 msgid "ISO_3166-1.RO"
-msgstr "Румъния"
+msgstr ""
 
 msgid "ISO_3166-1.RS"
-msgstr "Сърбия"
+msgstr ""
 
 msgid "ISO_3166-1.RS#official"
-msgstr "Република Сърбия"
+msgstr ""
 
 msgid "ISO_3166-1.RU"
-msgstr "Руска федерация"
+msgstr ""
 
 msgid "ISO_3166-1.RW"
-msgstr "Руанда"
+msgstr ""
 
 msgid "ISO_3166-1.RW#official"
-msgstr "Руандска република"
+msgstr ""
 
 msgid "ISO_3166-1.SA"
-msgstr "Саудитска Арабия"
+msgstr ""
 
 msgid "ISO_3166-1.SA#official"
-msgstr "Кралство Саудитска Арабия"
+msgstr ""
 
 msgid "ISO_3166-1.SB"
-msgstr "Соломонови острови"
+msgstr ""
 
 msgid "ISO_3166-1.SC"
-msgstr "Сейшели"
+msgstr ""
 
 msgid "ISO_3166-1.SC#official"
-msgstr "Република Сейшели"
+msgstr ""
 
 msgid "ISO_3166-1.SD"
-msgstr "Судан"
+msgstr ""
 
 msgid "ISO_3166-1.SD#official"
-msgstr "Република Судан"
+msgstr ""
 
 msgid "ISO_3166-1.SE"
-msgstr "Швеция"
+msgstr ""
 
 msgid "ISO_3166-1.SE#official"
-msgstr "Кралство Швеция"
+msgstr ""
 
 msgid "ISO_3166-1.SG"
-msgstr "Сингапур"
+msgstr ""
 
 msgid "ISO_3166-1.SG#official"
-msgstr "Република Сингапур"
+msgstr ""
 
 msgid "ISO_3166-1.SH"
-msgstr "Света Елена, Възнесение и Тристан да Куня"
+msgstr ""
 
 msgid "ISO_3166-1.SI"
-msgstr "Словения"
+msgstr ""
 
 msgid "ISO_3166-1.SI#official"
-msgstr "Република Словения"
+msgstr ""
 
 msgid "ISO_3166-1.SJ"
-msgstr "Свалбард и Ян Майен"
+msgstr ""
 
 msgid "ISO_3166-1.SK"
-msgstr "Словакия"
+msgstr ""
 
 msgid "ISO_3166-1.SK#official"
-msgstr "Словашка република"
+msgstr ""
 
 msgid "ISO_3166-1.SL"
-msgstr "Сиера Леоне"
+msgstr ""
 
 msgid "ISO_3166-1.SL#official"
-msgstr "Република Сиера Леоне"
+msgstr ""
 
 msgid "ISO_3166-1.SM"
-msgstr "Сан Марино"
+msgstr ""
 
 msgid "ISO_3166-1.SM#official"
-msgstr "Република Сан Марино"
+msgstr ""
 
 msgid "ISO_3166-1.SN"
-msgstr "Сенегал"
+msgstr ""
 
 msgid "ISO_3166-1.SN#official"
-msgstr "Република Сенегал"
+msgstr ""
 
 msgid "ISO_3166-1.SO"
-msgstr "Сомалия"
+msgstr ""
 
 msgid "ISO_3166-1.SO#official"
-msgstr "Федерална република Сомалия"
+msgstr ""
 
 msgid "ISO_3166-1.SR"
-msgstr "Суринам"
+msgstr ""
 
 msgid "ISO_3166-1.SR#official"
-msgstr "Република Суринам"
+msgstr ""
 
 msgid "ISO_3166-1.SS"
-msgstr "Южен Судан"
+msgstr ""
 
 msgid "ISO_3166-1.SS#official"
-msgstr "Република Южен Судан"
+msgstr ""
 
 msgid "ISO_3166-1.ST"
-msgstr "Сао Томе и Принсипи"
+msgstr ""
 
 msgid "ISO_3166-1.ST#official"
-msgstr "Демократична република Сао Томе и Принсипи"
+msgstr ""
 
 msgid "ISO_3166-1.SV"
-msgstr "Ел Салвадор"
+msgstr ""
 
 msgid "ISO_3166-1.SV#official"
-msgstr "Република Ел Салвадор"
+msgstr ""
 
 msgid "ISO_3166-1.SX"
-msgstr "Синт Мартен (холандска част)"
+msgstr ""
 
 msgid "ISO_3166-1.SY"
-msgstr "Сирийска арабска република"
+msgstr ""
 
 msgid "ISO_3166-1.SZ"
-msgstr "Свазиленд"
+msgstr ""
 
 msgid "ISO_3166-1.SZ#official"
-msgstr "Кралство Свазиленд"
+msgstr ""
 
 msgid "ISO_3166-1.TC"
-msgstr "Острови Тюрк и Кайкос"
+msgstr ""
 
 msgid "ISO_3166-1.TD"
-msgstr "Чад"
+msgstr ""
 
 msgid "ISO_3166-1.TD#official"
-msgstr "Република Чад"
+msgstr ""
 
 msgid "ISO_3166-1.TF"
-msgstr "Френски южни територии"
+msgstr ""
 
 msgid "ISO_3166-1.TG"
-msgstr "Того"
+msgstr ""
 
 msgid "ISO_3166-1.TG#official"
-msgstr "Тогоска република"
+msgstr ""
 
 msgid "ISO_3166-1.TH"
-msgstr "Тайланд"
+msgstr ""
 
 msgid "ISO_3166-1.TH#official"
-msgstr "Кралство Тайланд"
+msgstr ""
 
 msgid "ISO_3166-1.TJ"
-msgstr "Таджикистан"
+msgstr ""
 
 msgid "ISO_3166-1.TJ#official"
-msgstr "Република Таджикистан"
+msgstr ""
 
 msgid "ISO_3166-1.TK"
-msgstr "Токелау"
+msgstr ""
 
 msgid "ISO_3166-1.TL"
-msgstr "Тимор-Лест"
+msgstr ""
 
 msgid "ISO_3166-1.TL#official"
-msgstr "Демократична република Тимор-Лест"
+msgstr ""
 
 msgid "ISO_3166-1.TM"
-msgstr "Туркменистан"
+msgstr ""
 
 msgid "ISO_3166-1.TN"
-msgstr "Тунис"
+msgstr ""
 
 msgid "ISO_3166-1.TN#official"
-msgstr "Република Тунис"
+msgstr ""
 
 msgid "ISO_3166-1.TO"
-msgstr "Тонга"
+msgstr ""
 
 msgid "ISO_3166-1.TO#official"
-msgstr "Кралство Тонга"
+msgstr ""
 
 msgid "ISO_3166-1.TR"
-msgstr "Турция"
+msgstr ""
 
 msgid "ISO_3166-1.TR#official"
-msgstr "Република Турция"
+msgstr ""
 
 msgid "ISO_3166-1.TT"
-msgstr "Тринидад и Тобаго"
+msgstr ""
 
 msgid "ISO_3166-1.TT#official"
-msgstr "Република Тринидад и Тобаго"
+msgstr ""
 
 msgid "ISO_3166-1.TV"
-msgstr "Тувалу"
+msgstr ""
 
 msgid "ISO_3166-1.TW"
-msgstr "Тайван"
+msgstr ""
 
 msgid "ISO_3166-1.TZ"
-msgstr "Танзания"
+msgstr ""
 
 msgid "ISO_3166-1.TZ#official"
-msgstr "Обединена република Танзания"
+msgstr ""
 
 msgid "ISO_3166-1.UA"
-msgstr "Украйна"
+msgstr ""
 
 msgid "ISO_3166-1.UG"
-msgstr "Уганда"
+msgstr ""
 
 msgid "ISO_3166-1.UG#official"
-msgstr "Република Уганда"
+msgstr ""
 
 msgid "ISO_3166-1.UM"
-msgstr "Обединени малки острови по крайбрежието на САЩ"
+msgstr ""
 
 msgid "ISO_3166-1.US"
-msgstr "Съединени щати"
+msgstr ""
 
 msgid "ISO_3166-1.US#official"
-msgstr "Съединени американски щати"
+msgstr ""
 
 msgid "ISO_3166-1.UY"
-msgstr "Уругвай"
+msgstr ""
 
 msgid "ISO_3166-1.UY#official"
-msgstr "Източна република Уругвай"
+msgstr ""
 
 msgid "ISO_3166-1.UZ"
-msgstr "Узбекистан"
+msgstr ""
 
 msgid "ISO_3166-1.UZ#official"
-msgstr "Република Узбекистан"
+msgstr ""
 
 msgid "ISO_3166-1.VA"
-msgstr "Ватикана"
+msgstr ""
 
 msgid "ISO_3166-1.VC"
-msgstr "Свети Винсент и Гренадин"
+msgstr ""
 
 msgid "ISO_3166-1.VE"
-msgstr "Венецуела"
+msgstr ""
 
 msgid "ISO_3166-1.VE#official"
-msgstr "Боливарска република Венецуела"
+msgstr ""
 
 msgid "ISO_3166-1.VG"
-msgstr "Вирджински острови, Британски"
+msgstr ""
 
 msgid "ISO_3166-1.VG#official"
-msgstr "Британски вирджински острови"
+msgstr ""
 
 msgid "ISO_3166-1.VI"
-msgstr "Вирджински острови, САЩ"
+msgstr ""
 
 msgid "ISO_3166-1.VI#official"
-msgstr "Вирджински острови на САЩ"
+msgstr ""
 
 msgid "ISO_3166-1.VN"
-msgstr "Виетнам"
+msgstr ""
 
 msgid "ISO_3166-1.VN#official"
-msgstr "Социалистическа република Виетнам"
+msgstr ""
 
 msgid "ISO_3166-1.VU"
-msgstr "Вануату"
+msgstr ""
 
 msgid "ISO_3166-1.VU#official"
-msgstr "Република Вануату"
+msgstr ""
 
 msgid "ISO_3166-1.WF"
-msgstr "Острови Уолис и Футуна"
+msgstr ""
 
 msgid "ISO_3166-1.WS"
-msgstr "Самоа"
+msgstr ""
 
 msgid "ISO_3166-1.WS#official"
-msgstr "Независима самоаска държава"
+msgstr ""
 
 msgid "ISO_3166-1.YE"
-msgstr "Йемен"
+msgstr ""
 
 msgid "ISO_3166-1.YE#official"
-msgstr "Република Йемен"
+msgstr ""
 
 msgid "ISO_3166-1.YT"
-msgstr "Майот"
+msgstr ""
 
 msgid "ISO_3166-1.ZA"
-msgstr "Южна Африка"
+msgstr ""
 
 msgid "ISO_3166-1.ZA#official"
-msgstr "Република Южна Африка"
+msgstr ""
 
 msgid "ISO_3166-1.ZM"
-msgstr "Замбия"
+msgstr ""
 
 msgid "ISO_3166-1.ZM#official"
-msgstr "Република Замбия"
+msgstr ""
 
 msgid "ISO_3166-1.ZW"
-msgstr "Зимбабве"
+msgstr ""
 
 msgid "ISO_3166-1.ZW#official"
-msgstr "Република Зимбабве"
+msgstr ""

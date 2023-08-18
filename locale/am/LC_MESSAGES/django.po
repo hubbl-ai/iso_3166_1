@@ -1,665 +1,1263 @@
-# Translation of ISO-3166 (country names) to Amharic
-#
+# Translation of ISO 3166-1 to LANGUAGE
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# 
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Alastair McKinstry <mckinstry@debian.org>, 2004.
-#   Data taken from ICU-2.8; contributed by:
-#   - Daniel Yacob <yacob@geez.org>, Ge'ez Frontier Foundation
-#
-#
+# 
+# Copyright ©
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-11-15 20:32+0100\n"
-"PO-Revision-Date: 2004-04-07 08:00+0100\n"
-"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
-"Language-Team: Amharic\n"
-"Language: am\n"
+"PO-Revision-Date: 2023-07-20 18:38+0000\n"
+"Language-Team: Amharic (https://app.transifex.com/hubbl-ai/teams/128312/am/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgid "ISO_3166-1.AD"
-msgstr "ጐን፦ሲ"
+msgstr ""
+
+msgid "ISO_3166-1.AD#official"
+msgstr ""
 
 msgid "ISO_3166-1.AE"
-msgstr "ፘተባበሩት ጐረብ ጔሤሳትስ"
+msgstr ""
+
+msgid "ISO_3166-1.AF"
+msgstr ""
 
 msgid "ISO_3166-1.AF#official"
-msgstr "ሥሔ፦ቲ"
+msgstr ""
+
+msgid "ISO_3166-1.AG"
+msgstr ""
+
+msgid "ISO_3166-1.AI"
+msgstr ""
 
 msgid "ISO_3166-1.AL"
-msgstr "ጐሔባኒ።"
+msgstr ""
+
+msgid "ISO_3166-1.AL#official"
+msgstr ""
 
 msgid "ISO_3166-1.AM"
-msgstr "ጐሴሣኒ።"
+msgstr ""
+
+msgid "ISO_3166-1.AM#official"
+msgstr ""
+
+msgid "ISO_3166-1.AO"
+msgstr ""
 
 msgid "ISO_3166-1.AO#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.AQ"
+msgstr ""
 
 msgid "ISO_3166-1.AR"
-msgstr "ጐሴጀንቲና"
+msgstr ""
 
 msgid "ISO_3166-1.AR#official"
-msgstr "፦ሡኒጤ ሱፑብሑጤ"
+msgstr ""
+
+msgid "ISO_3166-1.AS"
+msgstr ""
 
 msgid "ISO_3166-1.AT"
-msgstr "጖ስትሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.AT#official"
+msgstr ""
 
 msgid "ISO_3166-1.AU"
-msgstr "ጐፄስትሳሑ።"
+msgstr ""
+
+msgid "ISO_3166-1.AW"
+msgstr ""
+
+msgid "ISO_3166-1.AX"
+msgstr ""
 
 msgid "ISO_3166-1.AZ"
-msgstr "ጐፈሴባጃን"
+msgstr ""
 
 msgid "ISO_3166-1.AZ#official"
-msgstr "ጐፈሴባጃን"
+msgstr ""
 
 msgid "ISO_3166-1.BA"
-msgstr "ቦስኒ። ጕና ሄሴፕጕቱኒ።"
+msgstr ""
 
 msgid "ISO_3166-1.BA#official"
-msgstr "ቦስኒ። ጕና ሄሴፕጕቱኒ።"
+msgstr ""
 
 msgid "ISO_3166-1.BB"
-msgstr "ባሴቤ፦ስ"
+msgstr ""
+
+msgid "ISO_3166-1.BD"
+msgstr ""
+
+msgid "ISO_3166-1.BD#official"
+msgstr ""
 
 msgid "ISO_3166-1.BE"
-msgstr "ቤሔጄሤ"
+msgstr ""
+
+msgid "ISO_3166-1.BE#official"
+msgstr ""
+
+msgid "ISO_3166-1.BF"
+msgstr ""
 
 msgid "ISO_3166-1.BG"
-msgstr "ቡሔጓሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.BG#official"
+msgstr ""
 
 msgid "ISO_3166-1.BH"
-msgstr "ባህሳን"
+msgstr ""
 
 msgid "ISO_3166-1.BH#official"
-msgstr "ባህሳን"
+msgstr ""
+
+msgid "ISO_3166-1.BI"
+msgstr ""
+
+msgid "ISO_3166-1.BI#official"
+msgstr ""
+
+msgid "ISO_3166-1.BJ"
+msgstr ""
 
 msgid "ISO_3166-1.BJ#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.BL"
+msgstr ""
 
 msgid "ISO_3166-1.BM"
-msgstr "ቤሴሙ፣"
+msgstr ""
+
+msgid "ISO_3166-1.BN"
+msgstr ""
 
 msgid "ISO_3166-1.BO"
-msgstr "ቦሑቱ።"
+msgstr ""
+
+msgid "ISO_3166-1.BO#official"
+msgstr ""
+
+msgid "ISO_3166-1.BQ"
+msgstr ""
 
 msgid "ISO_3166-1.BR"
-msgstr "ብሲፑሔ"
+msgstr ""
+
+msgid "ISO_3166-1.BR#official"
+msgstr ""
+
+msgid "ISO_3166-1.BS"
+msgstr ""
+
+msgid "ISO_3166-1.BS#official"
+msgstr ""
 
 msgid "ISO_3166-1.BT"
-msgstr "ቡህታን"
+msgstr ""
+
+msgid "ISO_3166-1.BT#official"
+msgstr ""
+
+msgid "ISO_3166-1.BV"
+msgstr ""
+
+msgid "ISO_3166-1.BW"
+msgstr ""
+
+msgid "ISO_3166-1.BW#official"
+msgstr ""
 
 msgid "ISO_3166-1.BY"
-msgstr "ቤሒሩስ"
+msgstr ""
+
+msgid "ISO_3166-1.BY#official"
+msgstr ""
 
 msgid "ISO_3166-1.BZ"
-msgstr "ቤሑፈ"
+msgstr ""
+
+msgid "ISO_3166-1.CA"
+msgstr ""
+
+msgid "ISO_3166-1.CC"
+msgstr ""
 
 msgid "ISO_3166-1.CD"
-msgstr "ጥንጕ"
+msgstr ""
 
 msgid "ISO_3166-1.CF"
-msgstr "ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ"
+msgstr ""
 
 msgid "ISO_3166-1.CG"
-msgstr "ኮንጎ"
+msgstr ""
+
+msgid "ISO_3166-1.CG#official"
+msgstr ""
 
 msgid "ISO_3166-1.CH"
-msgstr "ስፁፈሴሒን፥"
+msgstr ""
 
 msgid "ISO_3166-1.CH#official"
-msgstr "ሲቁ።"
+msgstr ""
+
+msgid "ISO_3166-1.CI"
+msgstr ""
 
 msgid "ISO_3166-1.CI#official"
-msgstr "ጣፕ ታሴ፤"
+msgstr ""
+
+msgid "ISO_3166-1.CK"
+msgstr ""
 
 msgid "ISO_3166-1.CL"
-msgstr "ኁሑ"
+msgstr ""
 
 msgid "ISO_3166-1.CL#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.CM"
-msgstr "ጢሣሩን"
+msgstr ""
+
+msgid "ISO_3166-1.CM#official"
+msgstr ""
 
 msgid "ISO_3166-1.CN"
-msgstr "ኂ፤ና"
+msgstr ""
 
 msgid "ISO_3166-1.CN#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.CO"
-msgstr "ጥሕሤቢ።"
+msgstr ""
+
+msgid "ISO_3166-1.CO#official"
+msgstr ""
+
+msgid "ISO_3166-1.CR"
+msgstr ""
+
+msgid "ISO_3166-1.CR#official"
+msgstr ""
+
+msgid "ISO_3166-1.CU"
+msgstr ""
 
 msgid "ISO_3166-1.CU#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.CV"
-msgstr "ጣፕ ታሴ፤"
+msgstr ""
 
 msgid "ISO_3166-1.CV#official"
-msgstr "ጣፕ ታሴ፤"
+msgstr ""
+
+msgid "ISO_3166-1.CW"
+msgstr ""
+
+msgid "ISO_3166-1.CX"
+msgstr ""
 
 msgid "ISO_3166-1.CY"
-msgstr "ሳ፤ፕረስ"
+msgstr ""
 
 msgid "ISO_3166-1.CY#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.CZ"
+msgstr ""
 
 msgid "ISO_3166-1.CZ#official"
-msgstr "ኃጤ ሱፑብሑጤ"
+msgstr ""
 
 msgid "ISO_3166-1.DE"
-msgstr "ጀሴመን"
+msgstr ""
 
 msgid "ISO_3166-1.DE#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.DJ"
+msgstr ""
+
+msgid "ISO_3166-1.DJ#official"
+msgstr ""
 
 msgid "ISO_3166-1.DK"
-msgstr "፤ንሢሴጤ"
+msgstr ""
+
+msgid "ISO_3166-1.DK#official"
+msgstr ""
 
 msgid "ISO_3166-1.DM"
-msgstr "፦ሡኒጢ"
+msgstr ""
+
+msgid "ISO_3166-1.DM#official"
+msgstr ""
 
 msgid "ISO_3166-1.DO"
-msgstr "፦ሡኒጤ ሱፑብሑጤ"
+msgstr ""
 
 msgid "ISO_3166-1.DZ"
-msgstr "ጐሔጄሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.DZ#official"
-msgstr "ጥንጕ"
+msgstr ""
 
 msgid "ISO_3166-1.EC"
-msgstr "ጒጣ፦ሴ"
+msgstr ""
+
+msgid "ISO_3166-1.EC#official"
+msgstr ""
 
 msgid "ISO_3166-1.EE"
-msgstr "ጔስቶኒ።"
+msgstr ""
+
+msgid "ISO_3166-1.EE#official"
+msgstr ""
 
 msgid "ISO_3166-1.EG"
-msgstr "ጔብፄ"
+msgstr ""
 
 msgid "ISO_3166-1.EG#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.EH"
-msgstr "ሤፅሲባፁ ሳህሲ"
+msgstr ""
 
 msgid "ISO_3166-1.ER"
-msgstr "ጔሴትሲ"
+msgstr ""
 
 msgid "ISO_3166-1.ER#official"
-msgstr "ጐሣሱጢ"
+msgstr ""
 
 msgid "ISO_3166-1.ES"
-msgstr "ስፔን"
+msgstr ""
+
+msgid "ISO_3166-1.ES#official"
+msgstr ""
 
 msgid "ISO_3166-1.ET"
-msgstr "ጒት፥ጵ።"
+msgstr ""
 
 msgid "ISO_3166-1.ET#official"
-msgstr "ጥንጕ"
+msgstr ""
 
 msgid "ISO_3166-1.FI"
-msgstr "ፑንሒን፥"
+msgstr ""
+
+msgid "ISO_3166-1.FI#official"
+msgstr ""
 
 msgid "ISO_3166-1.FJ"
-msgstr "ፑጂ"
+msgstr ""
 
 msgid "ISO_3166-1.FJ#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.FK"
+msgstr ""
 
 msgid "ISO_3166-1.FM"
-msgstr "ሡጤስኔፒ።"
+msgstr ""
 
 msgid "ISO_3166-1.FM#official"
-msgstr "ሡጤስኔፒ።"
+msgstr ""
+
+msgid "ISO_3166-1.FO"
+msgstr ""
+
+msgid "ISO_3166-1.FR"
+msgstr ""
 
 msgid "ISO_3166-1.FR#official"
-msgstr "ኃጤ ሱፑብሑጤ"
+msgstr ""
+
+msgid "ISO_3166-1.GA"
+msgstr ""
 
 msgid "ISO_3166-1.GA#official"
-msgstr "ኃጤ ሱፑብሑጤ"
+msgstr ""
 
 msgid "ISO_3166-1.GB"
-msgstr "ጕንጔሑፔ"
+msgstr ""
+
+msgid "ISO_3166-1.GB#official"
+msgstr ""
+
+msgid "ISO_3166-1.GD"
+msgstr ""
 
 msgid "ISO_3166-1.GE"
-msgstr "ጆሴጂ።"
+msgstr ""
 
 msgid "ISO_3166-1.GF"
-msgstr "ፘፈረንሳ፤ ጉፁጐና"
+msgstr ""
+
+msgid "ISO_3166-1.GG"
+msgstr ""
+
+msgid "ISO_3166-1.GH"
+msgstr ""
 
 msgid "ISO_3166-1.GH#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.GI"
+msgstr ""
+
+msgid "ISO_3166-1.GL"
+msgstr ""
 
 msgid "ISO_3166-1.GM"
-msgstr "ጒሤቢ።"
+msgstr ""
 
 msgid "ISO_3166-1.GM#official"
-msgstr "ሥሔ፦ቲ"
+msgstr ""
 
 msgid "ISO_3166-1.GN"
-msgstr "጑ኒ"
+msgstr ""
 
 msgid "ISO_3166-1.GN#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.GP"
+msgstr ""
 
 msgid "ISO_3166-1.GQ"
-msgstr "ጒጣቶሱ።ሔ ጑ኒ"
+msgstr ""
 
 msgid "ISO_3166-1.GQ#official"
-msgstr "ጒጣቶሱ።ሔ ጑ኒ"
+msgstr ""
 
 msgid "ISO_3166-1.GR"
-msgstr "ጔሱጤ"
+msgstr ""
 
 msgid "ISO_3166-1.GR#official"
-msgstr "ኃጤ ሱፑብሑጤ"
+msgstr ""
+
+msgid "ISO_3166-1.GS"
+msgstr ""
+
+msgid "ISO_3166-1.GT"
+msgstr ""
+
+msgid "ISO_3166-1.GT#official"
+msgstr ""
+
+msgid "ISO_3166-1.GU"
+msgstr ""
 
 msgid "ISO_3166-1.GW"
-msgstr "ቢሳፅ"
+msgstr ""
 
 msgid "ISO_3166-1.GW#official"
-msgstr "ቢሳፅ"
+msgstr ""
 
 msgid "ISO_3166-1.GY"
-msgstr "ጉ።ና"
+msgstr ""
 
 msgid "ISO_3166-1.GY#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.HK"
-msgstr "ሆንጔ ጥንጔ"
+msgstr ""
+
+msgid "ISO_3166-1.HK#official"
+msgstr ""
+
+msgid "ISO_3166-1.HM"
+msgstr ""
+
+msgid "ISO_3166-1.HN"
+msgstr ""
+
+msgid "ISO_3166-1.HN#official"
+msgstr ""
 
 msgid "ISO_3166-1.HR"
-msgstr "ጤስጔቄ።"
+msgstr ""
+
+msgid "ISO_3166-1.HR#official"
+msgstr ""
 
 msgid "ISO_3166-1.HT"
-msgstr "ሀ፤ቲ"
+msgstr ""
 
 msgid "ISO_3166-1.HT#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.HU"
-msgstr "ሀንጒሱ"
+msgstr ""
 
 msgid "ISO_3166-1.ID"
-msgstr "ጒን፦ኔፒ።"
+msgstr ""
 
 msgid "ISO_3166-1.ID#official"
-msgstr "ጒን፦ኔፒ።"
+msgstr ""
 
 msgid "ISO_3166-1.IE"
-msgstr "ጐፘሴሒን፥"
+msgstr ""
 
 msgid "ISO_3166-1.IL"
-msgstr "ጕስሲጔሔ"
+msgstr ""
+
+msgid "ISO_3166-1.IL#official"
+msgstr ""
+
+msgid "ISO_3166-1.IM"
+msgstr ""
 
 msgid "ISO_3166-1.IN"
-msgstr "ህን፥"
+msgstr ""
 
 msgid "ISO_3166-1.IN#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.IO"
+msgstr ""
 
 msgid "ISO_3166-1.IQ"
-msgstr "ጒሲቅ"
+msgstr ""
 
 msgid "ISO_3166-1.IQ#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.IR"
+msgstr ""
 
 msgid "ISO_3166-1.IR#official"
-msgstr "ሥሔ፦ቲ"
+msgstr ""
 
 msgid "ISO_3166-1.IS"
-msgstr "ጐ፤ስሒን፥"
+msgstr ""
+
+msgid "ISO_3166-1.IS#official"
+msgstr ""
 
 msgid "ISO_3166-1.IT"
-msgstr "ጣሑ።ን"
+msgstr ""
 
 msgid "ISO_3166-1.IT#official"
-msgstr "ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ"
+msgstr ""
+
+msgid "ISO_3166-1.JE"
+msgstr ""
 
 msgid "ISO_3166-1.JM"
-msgstr "ጃሢ፤ጢ"
+msgstr ""
 
 msgid "ISO_3166-1.JO"
-msgstr "ጆሴ፣ን"
+msgstr ""
+
+msgid "ISO_3166-1.JO#official"
+msgstr ""
 
 msgid "ISO_3166-1.JP"
-msgstr "ጃፓን"
+msgstr ""
+
+msgid "ISO_3166-1.KE"
+msgstr ""
 
 msgid "ISO_3166-1.KE#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.KG"
+msgstr ""
 
 msgid "ISO_3166-1.KG#official"
-msgstr "ኃጤ ሱፑብሑጤ"
+msgstr ""
 
 msgid "ISO_3166-1.KH"
-msgstr "ጢሤቦ።።"
+msgstr ""
+
+msgid "ISO_3166-1.KH#official"
+msgstr ""
+
+msgid "ISO_3166-1.KI"
+msgstr ""
+
+msgid "ISO_3166-1.KI#official"
+msgstr ""
 
 msgid "ISO_3166-1.KM"
-msgstr "ጥሥስስ"
+msgstr ""
+
+msgid "ISO_3166-1.KM#official"
+msgstr ""
+
+msgid "ISO_3166-1.KN"
+msgstr ""
 
 msgid "ISO_3166-1.KP"
-msgstr "፠ቡብ ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.KP#official"
-msgstr "፠ቡብ ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.KR"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.KW"
-msgstr "ጤፃት"
+msgstr ""
+
+msgid "ISO_3166-1.KW#official"
+msgstr ""
+
+msgid "ISO_3166-1.KY"
+msgstr ""
+
+msgid "ISO_3166-1.KZ"
+msgstr ""
+
+msgid "ISO_3166-1.KZ#official"
+msgstr ""
+
+msgid "ISO_3166-1.LA"
+msgstr ""
 
 msgid "ISO_3166-1.LB"
-msgstr "ሑባኖስ"
+msgstr ""
 
 msgid "ISO_3166-1.LB#official"
-msgstr "ኃጤ ሱፑብሑጤ"
+msgstr ""
+
+msgid "ISO_3166-1.LC"
+msgstr ""
+
+msgid "ISO_3166-1.LI"
+msgstr ""
+
+msgid "ISO_3166-1.LI#official"
+msgstr ""
+
+msgid "ISO_3166-1.LK"
+msgstr ""
 
 msgid "ISO_3166-1.LK#official"
-msgstr "፠ቡብ ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.LR"
+msgstr ""
+
+msgid "ISO_3166-1.LR#official"
+msgstr ""
+
+msgid "ISO_3166-1.LS"
+msgstr ""
+
+msgid "ISO_3166-1.LS#official"
+msgstr ""
 
 msgid "ISO_3166-1.LT"
-msgstr "ሑቱፃኒ።"
+msgstr ""
 
 msgid "ISO_3166-1.LT#official"
-msgstr "ሑቱፃኒ።"
+msgstr ""
+
+msgid "ISO_3166-1.LU"
+msgstr ""
+
+msgid "ISO_3166-1.LU#official"
+msgstr ""
 
 msgid "ISO_3166-1.LV"
-msgstr "ሒትቱ።"
+msgstr ""
 
 msgid "ISO_3166-1.LV#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.LY"
+msgstr ""
 
 msgid "ISO_3166-1.MA"
-msgstr "ሥስጥ"
+msgstr ""
+
+msgid "ISO_3166-1.MA#official"
+msgstr ""
+
+msgid "ISO_3166-1.MC"
+msgstr ""
+
+msgid "ISO_3166-1.MC#official"
+msgstr ""
 
 msgid "ISO_3166-1.MD"
-msgstr "ሥሔ፦ቲ"
+msgstr ""
+
+msgid "ISO_3166-1.MD#official"
+msgstr ""
+
+msgid "ISO_3166-1.ME"
+msgstr ""
+
+msgid "ISO_3166-1.MF"
+msgstr ""
+
+msgid "ISO_3166-1.MG"
+msgstr ""
+
+msgid "ISO_3166-1.MG#official"
+msgstr ""
+
+msgid "ISO_3166-1.MH"
+msgstr ""
+
+msgid "ISO_3166-1.MH#official"
+msgstr ""
 
 msgid "ISO_3166-1.MK"
-msgstr "ሥሔ፦ቲ"
+msgstr ""
 
 msgid "ISO_3166-1.MK#official"
-msgstr "ሢጘ፦ኒ።"
+msgstr ""
+
+msgid "ISO_3166-1.ML"
+msgstr ""
 
 msgid "ISO_3166-1.ML#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.MM"
+msgstr ""
 
 msgid "ISO_3166-1.MM#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.MN"
-msgstr "ሥንጕሑ።"
+msgstr ""
 
 msgid "ISO_3166-1.MO"
-msgstr "ሢጢፅ"
+msgstr ""
+
+msgid "ISO_3166-1.MO#official"
+msgstr ""
+
+msgid "ISO_3166-1.MP"
+msgstr ""
+
+msgid "ISO_3166-1.MP#official"
+msgstr ""
+
+msgid "ISO_3166-1.MQ"
+msgstr ""
 
 msgid "ISO_3166-1.MR"
-msgstr "ሥሱቴኒ።"
+msgstr ""
+
+msgid "ISO_3166-1.MR#official"
+msgstr ""
+
+msgid "ISO_3166-1.MS"
+msgstr ""
 
 msgid "ISO_3166-1.MT"
-msgstr "ሢሔታ"
+msgstr ""
 
 msgid "ISO_3166-1.MT#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.MU"
-msgstr "ሢሩሸስ"
+msgstr ""
 
 msgid "ISO_3166-1.MU#official"
-msgstr "ሢሩሸስ"
+msgstr ""
+
+msgid "ISO_3166-1.MV"
+msgstr ""
+
+msgid "ISO_3166-1.MV#official"
+msgstr ""
+
+msgid "ISO_3166-1.MW"
+msgstr ""
 
 msgid "ISO_3166-1.MW#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.MX"
-msgstr "ሣጤሲጥ"
+msgstr ""
 
 msgid "ISO_3166-1.MX#official"
-msgstr "ጐሣሱጢ"
+msgstr ""
 
 msgid "ISO_3166-1.MY"
-msgstr "ሢሓፒ።"
+msgstr ""
+
+msgid "ISO_3166-1.MZ"
+msgstr ""
+
+msgid "ISO_3166-1.MZ#official"
+msgstr ""
 
 msgid "ISO_3166-1.NA"
-msgstr "ናሡቢ።"
+msgstr ""
+
+msgid "ISO_3166-1.NA#official"
+msgstr ""
 
 msgid "ISO_3166-1.NC"
-msgstr "ኒፄ ጢሓ፦ኒ።"
+msgstr ""
+
+msgid "ISO_3166-1.NE"
+msgstr ""
+
+msgid "ISO_3166-1.NE#official"
+msgstr ""
+
+msgid "ISO_3166-1.NF"
+msgstr ""
 
 msgid "ISO_3166-1.NG"
-msgstr "ና፤ጄሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.NG#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.NI"
+msgstr ""
+
+msgid "ISO_3166-1.NI#official"
+msgstr ""
 
 msgid "ISO_3166-1.NL"
-msgstr "ኔፈሴሒን፥"
+msgstr ""
+
+msgid "ISO_3166-1.NL#official"
+msgstr ""
 
 msgid "ISO_3166-1.NO"
-msgstr "ኖሴፃ"
+msgstr ""
+
+msgid "ISO_3166-1.NO#official"
+msgstr ""
 
 msgid "ISO_3166-1.NP"
-msgstr "ኔፓሔ"
+msgstr ""
 
 msgid "ISO_3166-1.NP#official"
-msgstr "ጥንጕ"
+msgstr ""
+
+msgid "ISO_3166-1.NR"
+msgstr ""
 
 msgid "ISO_3166-1.NR#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.NU"
+msgstr ""
 
 msgid "ISO_3166-1.NZ"
-msgstr "ኒፄ ፑሒን፥"
+msgstr ""
+
+msgid "ISO_3166-1.OM"
+msgstr ""
+
+msgid "ISO_3166-1.OM#official"
+msgstr ""
+
+msgid "ISO_3166-1.PA"
+msgstr ""
 
 msgid "ISO_3166-1.PA#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.PE"
-msgstr "ፔሩ"
+msgstr ""
 
 msgid "ISO_3166-1.PE#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.PF"
-msgstr "ፘፈረንሳ፤ ፖሑኔፒ።"
+msgstr ""
 
 msgid "ISO_3166-1.PG"
-msgstr "ፓፑፂ ኒፄ ጑ኒ"
+msgstr ""
 
 msgid "ISO_3166-1.PG#official"
-msgstr "ፓፑፂ ኒፄ ጑ኒ"
+msgstr ""
+
+msgid "ISO_3166-1.PH"
+msgstr ""
+
+msgid "ISO_3166-1.PH#official"
+msgstr ""
+
+msgid "ISO_3166-1.PK"
+msgstr ""
+
+msgid "ISO_3166-1.PK#official"
+msgstr ""
 
 msgid "ISO_3166-1.PL"
-msgstr "ፖሒን፥"
+msgstr ""
 
 msgid "ISO_3166-1.PL#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.PM"
+msgstr ""
+
+msgid "ISO_3166-1.PN"
+msgstr ""
 
 msgid "ISO_3166-1.PR"
-msgstr "ፖሴታ ሱጥ"
+msgstr ""
+
+msgid "ISO_3166-1.PS"
+msgstr ""
 
 msgid "ISO_3166-1.PS#official"
-msgstr "ጐሣሱጢ"
+msgstr ""
+
+msgid "ISO_3166-1.PT"
+msgstr ""
 
 msgid "ISO_3166-1.PT#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.PW"
+msgstr ""
 
 msgid "ISO_3166-1.PW#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.PY"
+msgstr ""
+
+msgid "ISO_3166-1.PY#official"
+msgstr ""
+
+msgid "ISO_3166-1.QA"
+msgstr ""
+
+msgid "ISO_3166-1.QA#official"
+msgstr ""
+
+msgid "ISO_3166-1.RE"
+msgstr ""
 
 msgid "ISO_3166-1.RO"
-msgstr "ስሣኒ።"
+msgstr ""
 
 msgid "ISO_3166-1.RS"
-msgstr "ጐፈሴባጃን"
+msgstr ""
 
 msgid "ISO_3166-1.RS#official"
-msgstr "ጐፈሴባጃን"
+msgstr ""
 
 msgid "ISO_3166-1.RU"
-msgstr "ሲቁ።"
+msgstr ""
+
+msgid "ISO_3166-1.RW"
+msgstr ""
 
 msgid "ISO_3166-1.RW#official"
-msgstr "ኃጤ ሱፑብሑጤ"
+msgstr ""
 
 msgid "ISO_3166-1.SA"
-msgstr "ሳፄ፥ጐረቢ።"
+msgstr ""
 
 msgid "ISO_3166-1.SA#official"
-msgstr "ሳፄ፥ጐረቢ።"
+msgstr ""
+
+msgid "ISO_3166-1.SB"
+msgstr ""
+
+msgid "ISO_3166-1.SC"
+msgstr ""
+
+msgid "ISO_3166-1.SC#official"
+msgstr ""
 
 msgid "ISO_3166-1.SD"
-msgstr "ሱ፣ን"
+msgstr ""
+
+msgid "ISO_3166-1.SD#official"
+msgstr ""
 
 msgid "ISO_3166-1.SE"
-msgstr "ስፁ፥ን"
+msgstr ""
+
+msgid "ISO_3166-1.SE#official"
+msgstr ""
 
 msgid "ISO_3166-1.SG"
-msgstr "ሲንጒፖሴ"
+msgstr ""
 
 msgid "ISO_3166-1.SG#official"
-msgstr "ሲንጒፖሴ"
+msgstr ""
+
+msgid "ISO_3166-1.SH"
+msgstr ""
 
 msgid "ISO_3166-1.SI"
-msgstr "ስሕታኒ።"
+msgstr ""
+
+msgid "ISO_3166-1.SI#official"
+msgstr ""
+
+msgid "ISO_3166-1.SJ"
+msgstr ""
 
 msgid "ISO_3166-1.SK"
-msgstr "ስሕቲጡ።"
+msgstr ""
 
 msgid "ISO_3166-1.SK#official"
-msgstr "ሥሔ፦ቲ"
+msgstr ""
+
+msgid "ISO_3166-1.SL"
+msgstr ""
+
+msgid "ISO_3166-1.SL#official"
+msgstr ""
+
+msgid "ISO_3166-1.SM"
+msgstr ""
+
+msgid "ISO_3166-1.SM#official"
+msgstr ""
 
 msgid "ISO_3166-1.SN"
-msgstr "ሴኔጒሔ"
+msgstr ""
+
+msgid "ISO_3166-1.SN#official"
+msgstr ""
 
 msgid "ISO_3166-1.SO"
-msgstr "ሱሢሓ"
+msgstr ""
 
 msgid "ISO_3166-1.SO#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.SR"
+msgstr ""
+
+msgid "ISO_3166-1.SR#official"
+msgstr ""
 
 msgid "ISO_3166-1.SS"
-msgstr "፠ቡብ ጐፔሱጢ"
+msgstr ""
 
 msgid "ISO_3166-1.SS#official"
-msgstr "፠ቡብ ጐፔሱጢ"
+msgstr ""
+
+msgid "ISO_3166-1.ST"
+msgstr ""
+
+msgid "ISO_3166-1.ST#official"
+msgstr ""
+
+msgid "ISO_3166-1.SV"
+msgstr ""
+
+msgid "ISO_3166-1.SV#official"
+msgstr ""
+
+msgid "ISO_3166-1.SX"
+msgstr ""
 
 msgid "ISO_3166-1.SY"
-msgstr "ሲሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.SZ"
+msgstr ""
+
+msgid "ISO_3166-1.SZ#official"
+msgstr ""
+
+msgid "ISO_3166-1.TC"
+msgstr ""
 
 msgid "ISO_3166-1.TD"
-msgstr "ኂ፥"
+msgstr ""
 
 msgid "ISO_3166-1.TD#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.TF"
-msgstr "ፘፈረንሳ፤ ፠ቡባፁ ጔፒቶኄ"
+msgstr ""
+
+msgid "ISO_3166-1.TG"
+msgstr ""
 
 msgid "ISO_3166-1.TG#official"
-msgstr "ኃጤ ሱፑብሑጤ"
+msgstr ""
 
 msgid "ISO_3166-1.TH"
-msgstr "ታ፤ሒን፥"
+msgstr ""
+
+msgid "ISO_3166-1.TH#official"
+msgstr ""
 
 msgid "ISO_3166-1.TJ"
-msgstr "ታጃጡስታን"
+msgstr ""
 
 msgid "ISO_3166-1.TJ#official"
-msgstr "ታጃጡስታን"
+msgstr ""
+
+msgid "ISO_3166-1.TK"
+msgstr ""
 
 msgid "ISO_3166-1.TL"
-msgstr "ሤስሲቅ ቲሥሴ"
+msgstr ""
 
 msgid "ISO_3166-1.TL#official"
-msgstr "ጥንጕ"
+msgstr ""
+
+msgid "ISO_3166-1.TM"
+msgstr ""
 
 msgid "ISO_3166-1.TN"
-msgstr "ቱኒፑ።"
+msgstr ""
+
+msgid "ISO_3166-1.TN#official"
+msgstr ""
+
+msgid "ISO_3166-1.TO"
+msgstr ""
+
+msgid "ISO_3166-1.TO#official"
+msgstr ""
 
 msgid "ISO_3166-1.TR"
-msgstr "ቱሴጤ"
+msgstr ""
 
 msgid "ISO_3166-1.TR#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.TT"
-msgstr "ትሱኒ፣፥ ጕና ቶባጕ"
+msgstr ""
 
 msgid "ISO_3166-1.TT#official"
-msgstr "ትሱኒ፣፥ ጕና ቶባጕ"
+msgstr ""
+
+msgid "ISO_3166-1.TV"
+msgstr ""
 
 msgid "ISO_3166-1.TW"
-msgstr "ታ፤ሒን፥"
+msgstr ""
 
 msgid "ISO_3166-1.TZ"
-msgstr "ታንፒኒ።"
+msgstr ""
 
 msgid "ISO_3166-1.TZ#official"
-msgstr "ታንፒኒ።"
+msgstr ""
+
+msgid "ISO_3166-1.UA"
+msgstr ""
 
 msgid "ISO_3166-1.UG"
-msgstr "ፙጒን፣"
+msgstr ""
 
 msgid "ISO_3166-1.UG#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.UM"
+msgstr ""
 
 msgid "ISO_3166-1.US"
-msgstr "ጐሣሱጢ"
+msgstr ""
 
 msgid "ISO_3166-1.US#official"
-msgstr "ጐሣሱጢ"
+msgstr ""
+
+msgid "ISO_3166-1.UY"
+msgstr ""
+
+msgid "ISO_3166-1.UY#official"
+msgstr ""
 
 msgid "ISO_3166-1.UZ"
-msgstr "ፙፔበጡስታን"
+msgstr ""
 
 msgid "ISO_3166-1.UZ#official"
-msgstr "ፙፔበጡስታን"
+msgstr ""
+
+msgid "ISO_3166-1.VA"
+msgstr ""
+
+msgid "ISO_3166-1.VC"
+msgstr ""
 
 msgid "ISO_3166-1.VE"
-msgstr "ታንፉፃሒ"
+msgstr ""
 
 msgid "ISO_3166-1.VE#official"
-msgstr "ሥሔ፦ቲ"
+msgstr ""
 
 msgid "ISO_3166-1.VG"
-msgstr "ፘጕንጔሑፔ ፥ንጔሔ ፠ሴቶኄ"
+msgstr ""
 
 msgid "ISO_3166-1.VG#official"
-msgstr "ፘጐሣሱጢ ቨሴጂን ፠ሴቶኄ"
+msgstr ""
 
 msgid "ISO_3166-1.VI"
-msgstr "ፘጐሣሱጢ ቨሴጂን ፠ሴቶኄ"
+msgstr ""
 
 msgid "ISO_3166-1.VI#official"
-msgstr "ፘጕንጔሑፔ ፥ንጔሔ ፠ሴቶኄ"
+msgstr ""
+
+msgid "ISO_3166-1.VN"
+msgstr ""
+
+msgid "ISO_3166-1.VN#official"
+msgstr ""
+
+msgid "ISO_3166-1.VU"
+msgstr ""
+
+msgid "ISO_3166-1.VU#official"
+msgstr ""
+
+msgid "ISO_3166-1.WF"
+msgstr ""
+
+msgid "ISO_3166-1.WS"
+msgstr ""
+
+msgid "ISO_3166-1.WS#official"
+msgstr ""
 
 msgid "ISO_3166-1.YE"
-msgstr "ፘመን"
+msgstr ""
 
 msgid "ISO_3166-1.YE#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
+
+msgid "ISO_3166-1.YT"
+msgstr ""
 
 msgid "ISO_3166-1.ZA"
-msgstr "፠ቡብ ጐፔሱጢ"
+msgstr ""
 
 msgid "ISO_3166-1.ZA#official"
-msgstr "፠ቡብ ጐፔሱጢ"
+msgstr ""
 
 msgid "ISO_3166-1.ZM"
-msgstr "ዛምቢያ"
+msgstr ""
 
 msgid "ISO_3166-1.ZM#official"
-msgstr "ሰሣን ጥሱ።"
+msgstr ""
 
 msgid "ISO_3166-1.ZW"
-msgstr "ፒሤቢ።"
+msgstr ""
+
+msgid "ISO_3166-1.ZW#official"
+msgstr ""

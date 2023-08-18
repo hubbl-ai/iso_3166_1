@@ -1,27 +1,28 @@
-# Translation of ISO 3166 (country names) to Asturian
-#
+# Translation of ISO 3166-1 to LANGUAGE
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# 
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Marcos Alvarez Costales <marcoscostales@gmail.com>, 2009, 2010.
-#
+# 
+# Copyright ©
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Scott Deerwester <scott@hubbl.ai>, 2023
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-11-15 20:32+0100\n"
-"PO-Revision-Date: 2012-10-08 16:19+0100\n"
-"Last-Translator: ivarela <ivarela@ubuntu.com>\n"
-"Language-Team: Asturian <softast-xeneral@lists.sourceforge.net>\n"
-"Language: ast\n"
+"PO-Revision-Date: 2023-07-20 18:38+0000\n"
+"Last-Translator: Scott Deerwester <scott@hubbl.ai>, 2023\n"
+"Language-Team: Asturian (https://app.transifex.com/hubbl-ai/teams/128312/ast/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ast\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Language: Asturian\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-Country: SPAIN\n"
 
 msgid "ISO_3166-1.AD"
 msgstr "Andorra"
@@ -283,6 +284,9 @@ msgstr "Chipre"
 
 msgid "ISO_3166-1.CY#official"
 msgstr "República de Chipre"
+
+msgid "ISO_3166-1.CZ"
+msgstr ""
 
 msgid "ISO_3166-1.CZ#official"
 msgstr "República Checa"
@@ -919,6 +923,9 @@ msgstr "Pitcairn"
 
 msgid "ISO_3166-1.PR"
 msgstr "Puerto Rico"
+
+msgid "ISO_3166-1.PS"
+msgstr ""
 
 msgid "ISO_3166-1.PS#official"
 msgstr "l'Estáu d'Eritrea"
